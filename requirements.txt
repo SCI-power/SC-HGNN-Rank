@@ -1,6 +1,2 @@
-numpy
-pandas
-scipy
-scikit-learn
-torch
-
+torch==2.7.0
+-r environment/requirements.txt

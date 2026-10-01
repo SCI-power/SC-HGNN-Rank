@@ -1,95 +1,145 @@
 # SC-HGNN-Rank
 
-SC-HGNN-Rank is a heterogeneous graph ranker for prioritizing candidate
-compound-target-regulon-cell-context axes. The code in this repository is a
-review-facing implementation of the model architecture, ranking objective,
-input schema, training entry point and candidate-ranking workflow.
+Spatial-Context Heterogeneous Graph Neural Network Ranker for prioritizing
+compound-target-regulon-cellular-context axes in COAD, LIHC and STAD.
 
-The repository is intended to support manuscript review and reproducibility
-inspection. It does not contain local raw omics data, private paths, manuscript
-build scripts or image-generation assets.
+This package contains the study model, processed inputs, fixed splits, saved
+predictions, model checkpoints and analysis scripts. The default workflow uses
+the original SC-HGNN-Rank architecture and the matched evaluations reported in
+the manuscript.
 
-## Repository layout
+## Installation
 
-```text
-configs/            Example run configuration
-docs/               Model, schema and reproducibility notes
-examples/           Small runnable example tables
-scripts/            Command-line entry points
-src/sc_hgnn_rank/   Model, graph construction, losses and metrics
-tests/              Lightweight smoke tests
-```
-
-## Install
+Use Python 3.12. Extract the ZIP before running the commands. For a CPU setup on
+Windows or Linux:
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
 ```
 
-Linux and macOS users can activate the environment with
-`source .venv/bin/activate`.
-
-## Run a smoke training job
+Activate it with `.venv\Scripts\Activate.ps1` in Windows PowerShell, or
+`source .venv/bin/activate` on Linux/macOS. Then install the dependencies:
 
 ```bash
-python scripts/train_model.py --config configs/example_config.json
+python -m pip install -r environment/requirements-cpu.txt
 ```
 
-The command writes a trained checkpoint, metrics and ranked candidate table
-under `outputs/example_run/`.
+For macOS use
+`python -m pip install -r requirements.txt`. The tested CUDA 12.6 setup is
+specified in `environment/requirements-cuda126.txt`. A GPU is recommended for
+full training; all quick checks can run on CPU.
 
-For a minimal code-path check without additional test frameworks:
+## Quick reproducibility check
+
+Run from the extracted directory:
 
 ```bash
-python scripts/smoke_test.py
-python scripts/reviewer_audit.py
+python run.py smoke --device cpu --output outputs/quick_check
 ```
 
-## Rank candidate axes with a trained checkpoint
+This validates the 600 candidates and 13 fixed folds, rebuilds the graph and
+tensors, checks checkpoint inference against saved test predictions, recomputes
+external-evidence and priority scores, and trains each of the eight comparators
+for three epochs. Success is recorded in `outputs/quick_check/SMOKE_SUCCESS.json`.
+Short training outputs are separate from the study results.
+
+The graph contains 960 nodes, 9,576 typed edges and 873 relation-disruption
+specifications. The model uses a hidden dimension of 112, two message-passing
+layers and dropout of 0.18. The parameter-matched evidence-only MLP has a hidden
+width of 196. The saved seeds are 20260807-20260811.
+
+## Reproduce results
 
 ```bash
-python scripts/rank_candidates.py ^
-  --config configs/example_config.json ^
-  --checkpoint outputs/example_run/model.pt ^
-  --out outputs/example_run/ranked_candidates.csv
+python run.py validate --output outputs/input_check
+python run.py prepare --output outputs/rebuilt_inputs
+python run.py infer --output outputs/checkpoint_predictions
+python run.py scores --output outputs/evidence_scores
+python run.py weights --output outputs/score_weight_sensitivity
+python run.py summary --output outputs/reference_summary
 ```
 
-## Input format
+`summary` recomputes the matched comparisons, paired tests, training sensitivity,
+candidate uncertainty, TopK results and external-resource matching estimates
+from the included formal run records. It does not retrain the model. External
+matching confidence intervals use the recorded 5,000 bootstrap replicates.
 
-The minimum candidate-axis table requires:
+`weights` repeats the deterministic and 2,000 random integrated-score weight
+perturbations without retraining the neural network.
 
-- `cancer`
-- `compound`
-- `target`
-- `regulon`
-- `cell_context`
+`infer` uses the first saved main-model checkpoint unless `--checkpoint` is
+specified. It exports predictions for all 600 candidates and checks the held-out
+rows against that checkpoint's recorded predictions. Checkpoint paths are listed
+in `checkpoints/index.json`; 65 main-model checkpoints are supplied.
 
-Recommended evidence-score columns are normalized to the range 0-1:
+## Full training and additional analyses
 
-- `drug_evidence`
-- `single_cell_regulatory`
-- `spatial_recurrence`
-- `mapping_consistency`
-- `ppi_msi`
-- `clinical`
-- `lincs_cmap`
-- `depmap`
-- `non_broad_sensitivity`
+```bash
+python run.py train --phase all --device auto --output outputs/full_training
+python run.py summary --results outputs/full_training --output outputs/new_summary
+python run.py plot --output outputs/new_summary
+python run.py ablation --mode check --output outputs/ablation_check
+python run.py graph-only --mode check --output outputs/graph_only_check
+python run.py ablation --mode train --device auto --output outputs/ablation_training
+python run.py graph-only --mode train --device auto --output outputs/graph_only_training
+python run.py ablation --mode explain --device cpu --output outputs/evidence_dependence
+```
 
-See `docs/input_schema.md` and `examples/example_candidate_axes.csv`.
+Full model evaluation comprises 520 matched fits, 210 additional sensitivity
+fits and 78 missing-evidence fits. Thirty baseline fits are reused for the
+sensitivity analysis. Module ablation and the graph-only control comprise 260
+and 65 additional fits, respectively. Completed formal run records are included
+for all of these analyses. The training commands save new outputs rather than
+altering the packaged reference results.
 
-## Claim boundary
+Reference source panels can be regenerated with:
 
-SC-HGNN-Rank produces candidate-axis priority scores. A high score supports
-mechanism prioritization for follow-up review; it is not direct evidence of
-therapeutic efficacy, clinical utility or biochemical binding. External
-evidence layers should be interpreted according to their source-specific
-coverage and assay boundaries.
+```bash
+python run.py ablation --mode summary --output outputs/ablation_panels
+python run.py graph-only --mode summary --output outputs/graph_only_panels
+```
 
-## Reproducibility notes
+Source-panel filenames retain their analysis identifiers. Their correspondence
+to the final manuscript is documented in `docs/FIGURE_SOURCE_MAP.md`.
 
-The example data included here are intentionally small so reviewers can inspect
-the code path quickly. Full manuscript analyses require the public datasets and
-evidence tables described in the manuscript and supplementary materials.
+## Files and inputs
+
+| Directory | Contents |
+| --- | --- |
+| `src/` | Model, losses, graph/tensor construction, evaluation and scoring |
+| `data/model/` | Candidate labels, graph tensors and comparison specifications |
+| `data/project/` | Harmonized evidence tables used to rebuild the graph |
+| `data/graph/` | Readable node, edge, label and comparison tables |
+| `data/supporting/` | Evidence components and retained-candidate priority tables |
+| `data/reference_runs/` | Fixed split assignments and source-level evidence |
+| `reference_results/model/` | Matched, sensitivity and missing-evidence run records |
+| `reference_results/ablation/` | Module-ablation and feature-masking results |
+| `reference_results/graph_only/` | Graph-only control results |
+| `analyses/` | Module-ablation, explanation and graph-only scripts |
+| `checkpoints/index.json` | Paths to the 65 saved main-model checkpoints |
+| `environment/` | Requirements and the tested software environment |
+| `external_tools/` | Optional upstream spatial-tool adapters |
+
+The executable workflow starts from the supplied processed evidence tables.
+Raw sequencing files and bulk third-party database downloads remain at their
+original public sources. Input/output formats and spatial adapter instructions
+are provided in `docs/INPUT_OUTPUT.md` and `docs/EXTERNAL_TOOLS.md`.
+
+Discovery model scores, matched out-of-fold predictions and retained-candidate
+priority scores are separate fields. External means use evaluable sources only,
+retain measured zeros and report source coverage. Selected priority scores are
+0.807260 (COAD), 0.710672 (LIHC) and 0.768062 (STAD).
+
+Scientific identifiers and legacy class names are retained for checkpoint
+compatibility. File paths used for execution are package-relative. See
+`TERMS.md` for the author's existing software and data-use terms.
+
+## Explorer and additional data
+
+The companion `SC_HGNN_Rank_Explorer.html` is a standalone file containing its
+data and images. Open it directly in a browser to search candidates, inspect
+evidence, adjust display weights and export tables. No web server is required.
+
+The companion additional-data archive includes the spatial source crosswalks,
+all 49 mapping-weight tables and the supplementary source-data workbook,
+including the reported cellular-experiment measurements.

@@ -1,0 +1,202 @@
+{
+  "status": "passed",
+  "input_axes": 600,
+  "nodes": 960,
+  "edges": 9576,
+  "fixed_folds": 13,
+  "primary_checkpoints": 65,
+  "checkpoint_state_tensors_unchanged": true,
+  "CPU_smoke": {
+    "status": "passed",
+    "short_training_models": 8,
+    "epochs": 3,
+    "seconds": 40.283,
+    "formal_results_overwritten": false
+  },
+  "reference_summary_tables_reproduced": 34,
+  "graph_only_and_ablation_checks": "passed",
+  "all_65_checkpoint_explanations_checked": true,
+  "Explorer_offline": "passed",
+  "Explorer_images": 78,
+  "scientific_comparisons": [
+    {
+      "file": "all_600_axis_model_uncertainty_by_design.csv",
+      "rows": 1800,
+      "matches_reference": true
+    },
+    {
+      "file": "external_coverage.csv",
+      "rows": 9,
+      "matches_reference": true
+    },
+    {
+      "file": "external_direct_matching_auroc_ci.csv",
+      "rows": 3,
+      "matches_reference": true
+    },
+    {
+      "file": "external_direct_matching_contrasts.csv",
+      "rows": 2,
+      "matches_reference": true
+    },
+    {
+      "file": "external_macro_metrics.csv",
+      "rows": 27,
+      "matches_reference": true
+    },
+    {
+      "file": "external_pair_level_inputs.csv",
+      "rows": 272,
+      "matches_reference": true
+    },
+    {
+      "file": "external_per_cancer_metrics.csv",
+      "rows": 81,
+      "matches_reference": true
+    },
+    {
+      "file": "integrated_score_direct_baseline.csv",
+      "rows": 13,
+      "matches_reference": true
+    },
+    {
+      "file": "main_loss_activity.csv",
+      "rows": 520,
+      "matches_reference": true
+    },
+    {
+      "file": "main_model_summary.csv",
+      "rows": 24,
+      "matches_reference": true
+    },
+    {
+      "file": "main_paired_tests.csv",
+      "rows": 84,
+      "matches_reference": true
+    },
+    {
+      "file": "main_run_metrics.csv",
+      "rows": 520,
+      "matches_reference": true
+    },
+    {
+      "file": "main_seed_averaged_folds.csv",
+      "rows": 104,
+      "matches_reference": true
+    },
+    {
+      "file": "missing_loss_activity.csv",
+      "rows": 78,
+      "matches_reference": true
+    },
+    {
+      "file": "missing_model_summary.csv",
+      "rows": 6,
+      "matches_reference": true
+    },
+    {
+      "file": "missing_paired_tests.csv",
+      "rows": 12,
+      "matches_reference": true
+    },
+    {
+      "file": "missing_run_metrics.csv",
+      "rows": 78,
+      "matches_reference": true
+    },
+    {
+      "file": "missing_seed_averaged_folds.csv",
+      "rows": 26,
+      "matches_reference": true
+    },
+    {
+      "file": "paired_membership_verification.csv",
+      "rows": 598,
+      "matches_reference": true
+    },
+    {
+      "file": "retained_axis_model_uncertainty_by_design.csv",
+      "rows": 72,
+      "matches_reference": true
+    },
+    {
+      "file": "selected_axis_primary_runs.csv",
+      "rows": 45,
+      "matches_reference": true
+    },
+    {
+      "file": "selected_axis_sensitivity_runs.csv",
+      "rows": 144,
+      "matches_reference": true
+    },
+    {
+      "file": "selected_axis_sensitivity_summary.csv",
+      "rows": 48,
+      "matches_reference": true
+    },
+    {
+      "file": "sensitivity_including_reused_baseline.csv",
+      "rows": 240,
+      "matches_reference": true
+    },
+    {
+      "file": "sensitivity_loss_activity.csv",
+      "rows": 210,
+      "matches_reference": true
+    },
+    {
+      "file": "sensitivity_rank_stability.csv",
+      "rows": 144,
+      "matches_reference": true
+    },
+    {
+      "file": "sensitivity_run_metrics.csv",
+      "rows": 210,
+      "matches_reference": true
+    },
+    {
+      "file": "sensitivity_summary.csv",
+      "rows": 16,
+      "matches_reference": true
+    },
+    {
+      "file": "Table_RIW04_random_weight_rank_stability.csv",
+      "rows": 3,
+      "matches_reference": true
+    },
+    {
+      "file": "Table_RIW06_locked_axis_weight_stability.csv",
+      "rows": 3,
+      "matches_reference": true
+    },
+    {
+      "file": "topk_ndcg_curves.csv",
+      "rows": 3120,
+      "matches_reference": true
+    },
+    {
+      "file": "Table_RIW06_locked_axis_weight_stability.csv",
+      "rows": 3,
+      "matches_reference": true
+    },
+    {
+      "file": "retained_24_priority_scores.csv",
+      "rows": 24,
+      "matches_reference": true
+    },
+    {
+      "file": "selected_3_priority_scores.csv",
+      "rows": 3,
+      "matches_reference": true
+    }
+  ],
+  "code_scan": {
+    "python_files_parsed": 27,
+    "issues": []
+  },
+  "additional_data_scan": {
+    "python_files_parsed": 2,
+    "issues": []
+  },
+  "full_model_training_repeated_for_packaging": false
+}
