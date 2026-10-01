@@ -1,0 +1,7 @@
+﻿cancer,cohort_role,n_patients,n_sections,median_target_context_spearman,majority_direction,n_positive,n_negative,direction_consistency_fraction,two_sided_null_pass_fraction,wilcoxon_two_sided_p
+COAD,balanced_patient_level_validation,10,10,-0.17572989617932022,negative,0,10,1.0,0.0,0.001953125
+LIHC,independent_external_treated,7,7,-0.04996241589831442,negative,1,6,0.8571428571428571,0.0,0.046875
+LIHC,original_discovery,3,3,-0.10592545328209918,negative,1,2,0.6666666666666666,0.0,0.5
+STAD,independent_external,1,1,-0.017052622971680757,positive,0,1,0.0,0.0,
+STAD,original_discovery,3,3,0.08269892901384392,positive,2,1,0.6666666666666666,0.0,0.75
+STAD,within_cohort_expansion,6,6,0.07932285285874674,positive,4,2,0.6666666666666666,0.0,0.4375

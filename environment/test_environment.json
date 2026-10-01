@@ -1,0 +1,16 @@
+{
+  "python": "3.12.13",
+  "packages": {
+    "torch": "2.7.0+cu126",
+    "numpy": "2.4.4",
+    "pandas": "3.0.1",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5"
+  },
+  "cuda_runtime": "12.6",
+  "gpu": "NVIDIA GeForce RTX 4060 Ti",
+  "quick_check_device": "cpu",
+  "version_source": "imported package modules"
+}

@@ -1,0 +1,961 @@
+﻿node_id,node_type,native_id,label,cancer,source_layer,feature_score,feature_tier
+axis::COAD_AXIS_001,axis,COAD_AXIS_001,Physovenine | ACHE/TFAP2A,COAD,integrated_axis,0.7730871896382334,IS2_high_priority_validation_axis
+axis::COAD_AXIS_002,axis,COAD_AXIS_002,Physovenine | ACHE/AP1,COAD,integrated_axis,0.6919262481185182,IS2_high_priority_validation_axis
+axis::COAD_AXIS_003,axis,COAD_AXIS_003,Quercetin | ACHE/TFAP2A,COAD,integrated_axis,0.7618241566594965,IS2_high_priority_validation_axis
+axis::COAD_AXIS_004,axis,COAD_AXIS_004,Tanshinone iia | ACHE/TFAP2A,COAD,integrated_axis,0.7576107827647681,IS2_high_priority_validation_axis
+axis::COAD_AXIS_005,axis,COAD_AXIS_005,Decursin | ACHE/TFAP2A,COAD,integrated_axis,0.754426979817578,IS2_high_priority_validation_axis
+axis::COAD_AXIS_006,axis,COAD_AXIS_006,"methyl (E)-2-[(2S,3Z,... | ACHE/TFAP2A",COAD,integrated_axis,0.7546590852584891,IS2_high_priority_validation_axis
+axis::COAD_AXIS_007,axis,COAD_AXIS_007,Marmesinin | ACHE/TFAP2A,COAD,integrated_axis,0.7544850151768417,IS2_high_priority_validation_axis
+axis::COAD_AXIS_008,axis,COAD_AXIS_008,Corydalmine | ACHE/TFAP2A,COAD,integrated_axis,0.7543853572382839,IS2_high_priority_validation_axis
+axis::COAD_AXIS_009,axis,COAD_AXIS_009,Angustidine | ACHE/TFAP2A,COAD,integrated_axis,0.7545475177114482,IS2_high_priority_validation_axis
+axis::COAD_AXIS_010,axis,COAD_AXIS_010,Kaempferol | ACHE/TFAP2A,COAD,integrated_axis,0.7545880603399934,IS2_high_priority_validation_axis
+axis::COAD_AXIS_011,axis,COAD_AXIS_011,Physovenine | ACHE/HR,COAD,integrated_axis,0.7634405477053978,IS2_high_priority_validation_axis
+axis::COAD_AXIS_012,axis,COAD_AXIS_012,Dihydrosanguinarine | ACHE/TFAP2A,COAD,integrated_axis,0.7530709364401751,IS2_high_priority_validation_axis
+axis::COAD_AXIS_013,axis,COAD_AXIS_013,Deltoin | ACHE/TFAP2A,COAD,integrated_axis,0.7533213515772749,IS2_high_priority_validation_axis
+axis::COAD_AXIS_014,axis,COAD_AXIS_014,Pectolinarigenin | ACHE/TFAP2A,COAD,integrated_axis,0.753138669150967,IS2_high_priority_validation_axis
+axis::COAD_AXIS_015,axis,COAD_AXIS_015,Quercetin | CDK1/KLF5,COAD,integrated_axis,0.7265549673125655,IS2_high_priority_validation_axis
+axis::COAD_AXIS_016,axis,COAD_AXIS_016,Stepholidine | DRD1/TFAP2A,COAD,integrated_axis,0.7647364383013023,IS2_high_priority_validation_axis
+axis::COAD_AXIS_017,axis,COAD_AXIS_017,Guggulsterone | PGR/NFKB,COAD,integrated_axis,0.7520976904986544,IS2_high_priority_validation_axis
+axis::COAD_AXIS_018,axis,COAD_AXIS_018,Physovenine | ACHE/MYC,COAD,integrated_axis,0.7590011958690785,IS2_high_priority_validation_axis
+axis::COAD_AXIS_019,axis,COAD_AXIS_019,Quercetin | ACHE/HR,COAD,integrated_axis,0.7464422768701813,IS2_high_priority_validation_axis
+axis::COAD_AXIS_020,axis,COAD_AXIS_020,Tanshinone iia | ACHE/HR,COAD,integrated_axis,0.742333647935494,IS2_high_priority_validation_axis
+axis::COAD_AXIS_021,axis,COAD_AXIS_021,Isocorypalmine | DRD1/TFAP2A,COAD,integrated_axis,0.7555018987557811,IS2_high_priority_validation_axis
+axis::COAD_AXIS_022,axis,COAD_AXIS_022,Allopseudococain | SLC6A4/ATF4,COAD,integrated_axis,0.829032548306303,IS1_publication_core_axis
+axis::COAD_AXIS_023,axis,COAD_AXIS_023,Corydalmine | ACHE/HR,COAD,integrated_axis,0.7392366206766418,IS2_high_priority_validation_axis
+axis::COAD_AXIS_024,axis,COAD_AXIS_024,"methyl (E)-2-[(2S,3Z,... | ACHE/HR",COAD,integrated_axis,0.739215183655248,IS2_high_priority_validation_axis
+axis::COAD_AXIS_025,axis,COAD_AXIS_025,Angustidine | ACHE/HR,COAD,integrated_axis,0.7393485209485627,IS2_high_priority_validation_axis
+axis::COAD_AXIS_026,axis,COAD_AXIS_026,Decursin | ACHE/HR,COAD,integrated_axis,0.7393703997618818,IS2_high_priority_validation_axis
+axis::COAD_AXIS_027,axis,COAD_AXIS_027,Marmesinin | ACHE/HR,COAD,integrated_axis,0.738967915123094,IS2_high_priority_validation_axis
+axis::COAD_AXIS_028,axis,COAD_AXIS_028,Kaempferol | ACHE/HR,COAD,integrated_axis,0.7391156816514397,IS2_high_priority_validation_axis
+axis::COAD_AXIS_029,axis,COAD_AXIS_029,Physovenine | ACHE/TBP,COAD,integrated_axis,0.7809782385803586,IS1_publication_core_axis
+axis::COAD_AXIS_030,axis,COAD_AXIS_030,Physostigmine | ACHE/HR,COAD,integrated_axis,0.7380894697768773,IS2_high_priority_validation_axis
+axis::COAD_AXIS_031,axis,COAD_AXIS_031,Deltoin | ACHE/HR,COAD,integrated_axis,0.7379890184893484,IS2_high_priority_validation_axis
+axis::COAD_AXIS_032,axis,COAD_AXIS_032,Pectolinarigenin | ACHE/HR,COAD,integrated_axis,0.7378660557983313,IS2_high_priority_validation_axis
+axis::COAD_AXIS_033,axis,COAD_AXIS_033,Dihydrosanguinarine | ACHE/HR,COAD,integrated_axis,0.7379682610665813,IS2_high_priority_validation_axis
+axis::COAD_AXIS_034,axis,COAD_AXIS_034,Quercetin | CDK1/MYB,COAD,integrated_axis,0.8391144570908674,IS1_publication_core_axis
+axis::COAD_AXIS_035,axis,COAD_AXIS_035,Physostigmine | ACHE/TFAP2A,COAD,integrated_axis,0.738285412047482,IS2_high_priority_validation_axis
+axis::COAD_AXIS_036,axis,COAD_AXIS_036,Quercetin | ACHE/MYC,COAD,integrated_axis,0.7438524015834735,IS2_high_priority_validation_axis
+axis::COAD_AXIS_037,axis,COAD_AXIS_037,Stepholidine | DRD1/HR,COAD,integrated_axis,0.7815901897373574,IS2_high_priority_validation_axis
+axis::COAD_AXIS_038,axis,COAD_AXIS_038,Quercetin | CDK1/MYBL2,COAD,integrated_axis,0.7033000439406605,IS2_high_priority_validation_axis
+axis::COAD_AXIS_039,axis,COAD_AXIS_039,Quercetin | CDK1/E2F1,COAD,integrated_axis,0.6943815677943672,IS2_high_priority_validation_axis
+axis::COAD_AXIS_040,axis,COAD_AXIS_040,Tetrahydropalmatine | DRD1/TFAP2A,COAD,integrated_axis,0.7441102266724883,IS2_high_priority_validation_axis
+axis::COAD_AXIS_041,axis,COAD_AXIS_041,2-epigalanthamine | ACHE/HR,COAD,integrated_axis,0.7313823870070519,IS2_high_priority_validation_axis
+axis::COAD_AXIS_042,axis,COAD_AXIS_042,(-)-huperzine a | ACHE/HR,COAD,integrated_axis,0.7311103803022726,IS2_high_priority_validation_axis
+axis::COAD_AXIS_043,axis,COAD_AXIS_043,Quercetin | ACHE/TBP,COAD,integrated_axis,0.769271226599485,IS2_high_priority_validation_axis
+axis::COAD_AXIS_044,axis,COAD_AXIS_044,(S)-Canadine | DRD1/TFAP2A,COAD,integrated_axis,0.7396818827226033,IS2_high_priority_validation_axis
+axis::COAD_AXIS_045,axis,COAD_AXIS_045,2-epigalanthamine | ACHE/TFAP2A,COAD,integrated_axis,0.731451282064152,IS2_high_priority_validation_axis
+axis::COAD_AXIS_046,axis,COAD_AXIS_046,(-)-huperzine a | ACHE/TFAP2A,COAD,integrated_axis,0.7312467460885158,IS2_high_priority_validation_axis
+axis::COAD_AXIS_047,axis,COAD_AXIS_047,Indirubin | CCNA2/FOXM1,COAD,integrated_axis,0.7164027126524509,IS2_high_priority_validation_axis
+axis::COAD_AXIS_048,axis,COAD_AXIS_048,Tanshinone iia | ACHE/MYC,COAD,integrated_axis,0.7367394126947432,IS2_high_priority_validation_axis
+axis::COAD_AXIS_049,axis,COAD_AXIS_049,Tanshinone iia | ACHE/TBP,COAD,integrated_axis,0.7654112680099324,IS2_high_priority_validation_axis
+axis::COAD_AXIS_050,axis,COAD_AXIS_050,Isocorypalmine | DRD1/HR,COAD,integrated_axis,0.7724807678062635,IS2_high_priority_validation_axis
+axis::COAD_AXIS_051,axis,COAD_AXIS_051,(S)-Scoulerine | DRD1/TFAP2A,COAD,integrated_axis,0.7352848428546869,IS2_high_priority_validation_axis
+axis::COAD_AXIS_052,axis,COAD_AXIS_052,Marmesinin | ACHE/MYC,COAD,integrated_axis,0.7335125663940941,IS2_high_priority_validation_axis
+axis::COAD_AXIS_053,axis,COAD_AXIS_053,Decursin | ACHE/MYC,COAD,integrated_axis,0.7338973792068371,IS2_high_priority_validation_axis
+axis::COAD_AXIS_054,axis,COAD_AXIS_054,"methyl (E)-2-[(2S,3Z,... | ACHE/MYC",COAD,integrated_axis,0.7334498203620312,IS2_high_priority_validation_axis
+axis::COAD_AXIS_055,axis,COAD_AXIS_055,Angustidine | ACHE/MYC,COAD,integrated_axis,0.7335463527484734,IS2_high_priority_validation_axis
+axis::COAD_AXIS_056,axis,COAD_AXIS_056,Kaempferol | ACHE/MYC,COAD,integrated_axis,0.733463628688655,IS2_high_priority_validation_axis
+axis::COAD_AXIS_057,axis,COAD_AXIS_057,Corydalmine | ACHE/MYC,COAD,integrated_axis,0.7336106344743277,IS2_high_priority_validation_axis
+axis::COAD_AXIS_058,axis,COAD_AXIS_058,Physovenine | ACHE/JUN,COAD,integrated_axis,0.7284932620866094,IS2_high_priority_validation_axis
+axis::COAD_AXIS_059,axis,COAD_AXIS_059,Eriodyctiol | HSP90AB1/DDIT3,COAD,integrated_axis,0.7333957259352347,IS2_high_priority_validation_axis
+axis::COAD_AXIS_060,axis,COAD_AXIS_060,Marmesinin | ACHE/TBP,COAD,integrated_axis,0.7621559142457545,IS2_high_priority_validation_axis
+axis::COAD_AXIS_061,axis,COAD_AXIS_061,Angustidine | ACHE/TBP,COAD,integrated_axis,0.7622162521603719,IS2_high_priority_validation_axis
+axis::COAD_AXIS_062,axis,COAD_AXIS_062,Corydalmine | ACHE/TBP,COAD,integrated_axis,0.7620888252906692,IS2_high_priority_validation_axis
+axis::COAD_AXIS_063,axis,COAD_AXIS_063,Decursin | ACHE/TBP,COAD,integrated_axis,0.7621211772180909,IS2_high_priority_validation_axis
+axis::COAD_AXIS_064,axis,COAD_AXIS_064,"methyl (E)-2-[(2S,3Z,... | ACHE/TBP",COAD,integrated_axis,0.762381685590257,IS2_high_priority_validation_axis
+axis::COAD_AXIS_065,axis,COAD_AXIS_065,Kaempferol | ACHE/TBP,COAD,integrated_axis,0.7621600222845345,IS2_high_priority_validation_axis
+axis::COAD_AXIS_066,axis,COAD_AXIS_066,"(13aS)-2,3,10-trimeth... | DRD1/TFAP2A",COAD,integrated_axis,0.7336204793981854,IS2_high_priority_validation_axis
+axis::COAD_AXIS_067,axis,COAD_AXIS_067,Deltoin | ACHE/MYC,COAD,integrated_axis,0.7315726439126907,IS2_high_priority_validation_axis
+axis::COAD_AXIS_068,axis,COAD_AXIS_068,Dihydrosanguinarine | ACHE/MYC,COAD,integrated_axis,0.7313613749224266,IS2_high_priority_validation_axis
+axis::COAD_AXIS_069,axis,COAD_AXIS_069,Pectolinarigenin | ACHE/MYC,COAD,integrated_axis,0.7316379484396969,IS2_high_priority_validation_axis
+axis::COAD_AXIS_070,axis,COAD_AXIS_070,Pectolinarigenin | ACHE/TBP,COAD,integrated_axis,0.7607283661721163,IS2_high_priority_validation_axis
+axis::COAD_AXIS_071,axis,COAD_AXIS_071,Dihydrosanguinarine | ACHE/TBP,COAD,integrated_axis,0.7607755550417625,IS2_high_priority_validation_axis
+axis::COAD_AXIS_072,axis,COAD_AXIS_072,Deltoin | ACHE/TBP,COAD,integrated_axis,0.7606716582442781,IS2_high_priority_validation_axis
+axis::COAD_AXIS_073,axis,COAD_AXIS_073,Artemisinin | CYP2B6/FOXM1,COAD,integrated_axis,0.7553773205793709,IS2_high_priority_validation_axis
+axis::COAD_AXIS_074,axis,COAD_AXIS_074,Quercetin | MMP1/ETV4,COAD,integrated_axis,0.667467183857063,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_075,axis,COAD_AXIS_075,Quercetin | MMP1/CEBPG,COAD,integrated_axis,0.7154691385540852,IS2_high_priority_validation_axis
+axis::COAD_AXIS_076,axis,COAD_AXIS_076,Eckol | BACE1/NFKB,COAD,integrated_axis,0.6529880031223426,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_077,axis,COAD_AXIS_077,Indirubin | CDK1/MYBL2,COAD,integrated_axis,0.6875902617006077,IS2_high_priority_validation_axis
+axis::COAD_AXIS_078,axis,COAD_AXIS_078,Berberine chloride | ACHE/HR,COAD,integrated_axis,0.7172765057557615,IS2_high_priority_validation_axis
+axis::COAD_AXIS_079,axis,COAD_AXIS_079,Berberine | ACHE/HR,COAD,integrated_axis,0.7172606834964813,IS2_high_priority_validation_axis
+axis::COAD_AXIS_080,axis,COAD_AXIS_080,Luteolin | MMP1/ETV4,COAD,integrated_axis,0.6631377440811054,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_081,axis,COAD_AXIS_081,Kaempferol | MMP1/ETV4,COAD,integrated_axis,0.663179871109451,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_082,axis,COAD_AXIS_082,Luteolin | MMP1/CEBPG,COAD,integrated_axis,0.7110066292923608,IS2_high_priority_validation_axis
+axis::COAD_AXIS_083,axis,COAD_AXIS_083,Kaempferol | MMP1/CEBPG,COAD,integrated_axis,0.7109802052778348,IS2_high_priority_validation_axis
+axis::COAD_AXIS_084,axis,COAD_AXIS_084,Berberine | ACHE/TFAP2A,COAD,integrated_axis,0.7191138302260321,IS2_high_priority_validation_axis
+axis::COAD_AXIS_085,axis,COAD_AXIS_085,Berberine chloride | ACHE/TFAP2A,COAD,integrated_axis,0.7192707688107396,IS2_high_priority_validation_axis
+axis::COAD_AXIS_086,axis,COAD_AXIS_086,(-)-epigallocatechin-... | MMP1/ETV4,COAD,integrated_axis,0.6619090628238069,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_087,axis,COAD_AXIS_087,Quercetin | ACHE/JUN,COAD,integrated_axis,0.7170679190117993,IS2_high_priority_validation_axis
+axis::COAD_AXIS_088,axis,COAD_AXIS_088,(-)-epigallocatechin-... | MMP1/CEBPG,COAD,integrated_axis,0.7097732189145041,IS2_high_priority_validation_axis
+axis::COAD_AXIS_089,axis,COAD_AXIS_089,Ibogain | SLC6A4/ATF4,COAD,integrated_axis,0.7999112302559706,IS1_publication_core_axis
+axis::COAD_AXIS_090,axis,COAD_AXIS_090,Quercetin | CDK1/E2F1,COAD,integrated_axis,0.6119779256409024,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_091,axis,COAD_AXIS_091,Rutaecarpine | PTGS2/ETV4,COAD,integrated_axis,0.6713665355046065,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_092,axis,COAD_AXIS_092,Physostigmine | ACHE/MYC,COAD,integrated_axis,0.7238726974154446,IS2_high_priority_validation_axis
+axis::COAD_AXIS_093,axis,COAD_AXIS_093,Physovenine | ACHE/TP53,COAD,integrated_axis,0.7217040631832533,IS2_high_priority_validation_axis
+axis::COAD_AXIS_094,axis,COAD_AXIS_094,Tanshinone iia | ACHE/JUN,COAD,integrated_axis,0.7131019422161023,IS2_high_priority_validation_axis
+axis::COAD_AXIS_095,axis,COAD_AXIS_095,Triptolide | PTGS2/ETV4,COAD,integrated_axis,0.66878543975933,IS3_supplementary_mechanistic_axis
+axis::COAD_AXIS_096,axis,COAD_AXIS_096,"methyl (E)-2-[(2S,3Z,... | ACHE/JUN",COAD,integrated_axis,0.7095493210816983,IS2_high_priority_validation_axis
+axis::COAD_AXIS_097,axis,COAD_AXIS_097,Marmesinin | ACHE/JUN,COAD,integrated_axis,0.7096435571267483,IS2_high_priority_validation_axis
+axis::COAD_AXIS_098,axis,COAD_AXIS_098,Corydalmine | ACHE/JUN,COAD,integrated_axis,0.7094380691135619,IS2_high_priority_validation_axis
+axis::COAD_AXIS_099,axis,COAD_AXIS_099,Decursin | ACHE/JUN,COAD,integrated_axis,0.7097626385085765,IS2_high_priority_validation_axis
+axis::COAD_AXIS_100,axis,COAD_AXIS_100,Angustidine | ACHE/JUN,COAD,integrated_axis,0.7090997190392063,IS2_high_priority_validation_axis
+axis::COAD_AXIS_101,axis,COAD_AXIS_101,Kaempferol | ACHE/JUN,COAD,integrated_axis,0.4176224651333201,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_102,axis,COAD_AXIS_102,Physostigmine | ACHE/JUN,COAD,integrated_axis,0.4175723234522135,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_103,axis,COAD_AXIS_103,Pectolinarigenin | ACHE/JUN,COAD,integrated_axis,0.4177106335420891,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_104,axis,COAD_AXIS_104,Deltoin | ACHE/JUN,COAD,integrated_axis,0.417941789308487,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_105,axis,COAD_AXIS_105,Dihydrosanguinarine | ACHE/JUN,COAD,integrated_axis,0.4177169343810286,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_106,axis,COAD_AXIS_106,Eckol | BACE1/HIF1A,COAD,integrated_axis,0.3870735384476225,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_107,axis,COAD_AXIS_107,Alpha-lipoic acid | ACHE/TFAP2A,COAD,integrated_axis,0.4371591208412705,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_108,axis,COAD_AXIS_108,Alpha-lipoic acid | ACHE/HR,COAD,integrated_axis,0.4336724267357536,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_109,axis,COAD_AXIS_109,Eriodyctiol | HSP90AB1/HSF1,COAD,integrated_axis,0.4248604188926333,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_110,axis,COAD_AXIS_110,Physovenine | ACHE/SP1,COAD,integrated_axis,0.4104675027183602,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_111,axis,COAD_AXIS_111,(-)-huperzine a | ACHE/JUN,COAD,integrated_axis,0.4175129810463814,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_112,axis,COAD_AXIS_112,2-epigalanthamine | ACHE/JUN,COAD,integrated_axis,0.4175923770747566,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_113,axis,COAD_AXIS_113,Artemisinin | CYP2B6/CEBPG,COAD,integrated_axis,0.4746988450796145,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_114,axis,COAD_AXIS_114,Dihydrotanshinoneⅰ | ACHE/TFAP2A,COAD,integrated_axis,0.4362214070778706,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_115,axis,COAD_AXIS_115,Physostigmine | ACHE/TBP,COAD,integrated_axis,0.384456955372847,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_116,axis,COAD_AXIS_116,"1,2-dimethylbenzene | ACHE/TFAP2A",COAD,integrated_axis,0.4365351422518652,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_117,axis,COAD_AXIS_117,M-xylene | ACHE/TFAP2A,COAD,integrated_axis,0.4363984473993007,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_118,axis,COAD_AXIS_118,Pcr | ACHE/TFAP2A,COAD,integrated_axis,0.436444569453786,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_119,axis,COAD_AXIS_119,Toluene | ACHE/TFAP2A,COAD,integrated_axis,0.4362562975599263,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_120,axis,COAD_AXIS_120,Glabranin | ACHE/TFAP2A,COAD,integrated_axis,0.4362042701191735,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_121,axis,COAD_AXIS_121,isodihydrofutoquinol a | ACHE/HR,COAD,integrated_axis,0.4472425324200726,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_122,axis,COAD_AXIS_122,Noscapine | ACHE/HR,COAD,integrated_axis,0.4471770992251562,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_123,axis,COAD_AXIS_123,Dinatin | ACHE/HR,COAD,integrated_axis,0.4471982657788795,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_124,axis,COAD_AXIS_124,(6S)-6-hydroxy-1-meth... | ACHE/HR,COAD,integrated_axis,0.4473802787921761,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_125,axis,COAD_AXIS_125,Anhydroicaritin | ACHE/HR,COAD,integrated_axis,0.4472652484865411,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_126,axis,COAD_AXIS_126,7-Methoxy-2-methyl is... | ACHE/HR,COAD,integrated_axis,0.4472242727990951,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_127,axis,COAD_AXIS_127,Quercetin tetramethyl... | ACHE/HR,COAD,integrated_axis,0.4473297096724081,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_128,axis,COAD_AXIS_128,Rhynchophylline | ACHE/HR,COAD,integrated_axis,0.4470758033817855,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_129,axis,COAD_AXIS_129,Salvilenone | ACHE/HR,COAD,integrated_axis,0.4471727709142846,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_130,axis,COAD_AXIS_130,Sumatrol | ACHE/HR,COAD,integrated_axis,0.4473112944268817,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_131,axis,COAD_AXIS_131,"3,5-dihydroxy-2-(4-hy... | ACHE/HR",COAD,integrated_axis,0.4474104565069895,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_132,axis,COAD_AXIS_132,Glabridin | ACHE/HR,COAD,integrated_axis,0.4472353417244743,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_133,axis,COAD_AXIS_133,Gancaonin A | ACHE/HR,COAD,integrated_axis,0.4471244094675624,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_134,axis,COAD_AXIS_134,Isocryptanshinone | ACHE/HR,COAD,integrated_axis,0.4471480086995774,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_135,axis,COAD_AXIS_135,Dihydrocorynantheine | ACHE/HR,COAD,integrated_axis,0.4472361842989349,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_136,axis,COAD_AXIS_136,Pisatin | ACHE/HR,COAD,integrated_axis,0.4471199006621286,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_137,axis,COAD_AXIS_137,"5-(1-methoxyethyl)-2,... | ACHE/HR",COAD,integrated_axis,0.447340488029933,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_138,axis,COAD_AXIS_138,Xyloidone | ACHE/HR,COAD,integrated_axis,0.4473164897828529,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_139,axis,COAD_AXIS_139,Luteanin | ACHE/HR,COAD,integrated_axis,0.4471640729264007,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_140,axis,COAD_AXIS_140,Zizyphusine | ACHE/HR,COAD,integrated_axis,0.4470558653301505,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_141,axis,COAD_AXIS_141,Glycyrrhiza flavonol a | ACHE/HR,COAD,integrated_axis,0.4474273138092735,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_142,axis,COAD_AXIS_142,Ibogain | ACHE/HR,COAD,integrated_axis,0.447318704801904,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_143,axis,COAD_AXIS_143,Physovenine | ACHE/MYC,COAD,integrated_axis,0.4297484510900937,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_144,axis,COAD_AXIS_144,Physovenine | ACHE/MYC,COAD,integrated_axis,0.4092485238219489,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_145,axis,COAD_AXIS_145,Indirubin | CDK1/E2F1,COAD,integrated_axis,0.4303507479448958,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_146,axis,COAD_AXIS_146,Quercetin | ACHE/MYC,COAD,integrated_axis,0.4158396397145004,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_147,axis,COAD_AXIS_147,ellagic acid | GSTP1/CEBPG,COAD,integrated_axis,0.4610714675632597,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_148,axis,COAD_AXIS_148,Quercetin | CDK1/MYC,COAD,integrated_axis,0.4293052936987406,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_149,axis,COAD_AXIS_149,Physovenine | ACHE/SSRP1,COAD,integrated_axis,0.4238070854476703,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_150,axis,COAD_AXIS_150,Artemisinin | CYP2B6/CEBPA,COAD,integrated_axis,0.478047343287994,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_151,axis,COAD_AXIS_151,Quercetin | PLAU/ETS1,COAD,integrated_axis,0.4161344015107175,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_152,axis,COAD_AXIS_152,Quercetin | ACHE/TP53,COAD,integrated_axis,0.4085323601991397,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_153,axis,COAD_AXIS_153,Allopseudococain | SLC6A2/MYB,COAD,integrated_axis,0.43774784316373,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_154,axis,COAD_AXIS_154,Quercetin | CDK1/MYB,COAD,integrated_axis,0.3812221917515455,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_155,axis,COAD_AXIS_155,(-)-huperzine a | ACHE/TBP,COAD,integrated_axis,0.382776214186871,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_156,axis,COAD_AXIS_156,2-epigalanthamine | ACHE/TBP,COAD,integrated_axis,0.3826681442883171,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_157,axis,COAD_AXIS_157,Baicalein | CDK1/E2F1,COAD,integrated_axis,0.4294928207226987,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_158,axis,COAD_AXIS_158,Quercetin | ACHE/SP1,COAD,integrated_axis,0.4105076759615705,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_159,axis,COAD_AXIS_159,Quercetin | PLAU/HIF1A,COAD,integrated_axis,0.4149570571795076,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_160,axis,COAD_AXIS_160,Quercetin | XDH/CEBPG,COAD,integrated_axis,0.4655831758939766,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_161,axis,COAD_AXIS_161,Allopseudococain | SLC6A2/MYB,COAD,integrated_axis,0.43148485490252,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_162,axis,COAD_AXIS_162,Physovenine | ACHE/AP1,COAD,integrated_axis,0.3268972928709195,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_163,axis,COAD_AXIS_163,Coryincine | ADRA1B/SP1,COAD,integrated_axis,0.4007193799179401,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_164,axis,COAD_AXIS_164,Berberine chloride | ACHE/JUN,COAD,integrated_axis,0.4145494185032715,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_165,axis,COAD_AXIS_165,Berberine | ACHE/JUN,COAD,integrated_axis,0.4146581147804163,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_166,axis,COAD_AXIS_166,Physovenine | ACHE/SP3,COAD,integrated_axis,0.3750694686353708,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_167,axis,COAD_AXIS_167,Luteolin | XDH/CEBPG,COAD,integrated_axis,0.4654886523365059,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_168,axis,COAD_AXIS_168,Psi-Baptigenin | PPARG/CEBPG,COAD,integrated_axis,0.4746929933978693,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_169,axis,COAD_AXIS_169,Tanshinone iia | ACHE/MYC,COAD,integrated_axis,0.4118476083703001,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_170,axis,COAD_AXIS_170,Guggulsterone | PGR,COAD,integrated_axis,0.3883638935800146,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_171,axis,COAD_AXIS_171,Physovenine | ACHE/JUN,COAD,integrated_axis,0.4309798006035071,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_172,axis,COAD_AXIS_172,Tanshinone iia | ACHE/SP1,COAD,integrated_axis,0.4103420713508404,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_173,axis,COAD_AXIS_173,Psi-Baptigenin | PPARG/ETV4,COAD,integrated_axis,0.4790864186021445,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_174,axis,COAD_AXIS_174,Psi-Baptigenin | PPARG/DDIT3,COAD,integrated_axis,0.4577558487431358,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_175,axis,COAD_AXIS_175,"3,5-dihydroxy-2-(4-hy... | PPARG/CEBPG",COAD,integrated_axis,0.474438932687561,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_176,axis,COAD_AXIS_176,Galangin | PPARG/CEBPG,COAD,integrated_axis,0.4745415816500182,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_177,axis,COAD_AXIS_177,Quercetin | CDK1/E2F4,COAD,integrated_axis,0.41926760582181,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_178,axis,COAD_AXIS_178,"3,5-dihydroxy-2-(4-hy... | PPARG/DDIT3",COAD,integrated_axis,0.4580025719317563,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_179,axis,COAD_AXIS_179,Galangin | PPARG/DDIT3,COAD,integrated_axis,0.457948033098587,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_180,axis,COAD_AXIS_180,Hyperforin | NR1I2/CDX2,COAD,integrated_axis,0.3972899838566964,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_181,axis,COAD_AXIS_181,"3,5-dihydroxy-2-(4-hy... | PPARG/ETV4",COAD,integrated_axis,0.4791087895898294,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_182,axis,COAD_AXIS_182,Galangin | PPARG/ETV4,COAD,integrated_axis,0.4790258791670855,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_183,axis,COAD_AXIS_183,Tanshinone iia | ACHE/TP53,COAD,integrated_axis,0.40504159200083,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_184,axis,COAD_AXIS_184,Kaempferol | ACHE/MYC,COAD,integrated_axis,0.4125827177370793,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_185,axis,COAD_AXIS_185,Corydalmine | ACHE/MYC,COAD,integrated_axis,0.4122237130124725,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_186,axis,COAD_AXIS_186,Marmesinin | ACHE/MYC,COAD,integrated_axis,0.4119635823467695,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_187,axis,COAD_AXIS_187,"methyl (E)-2-[(2S,3Z,... | ACHE/MYC",COAD,integrated_axis,0.4122350365329458,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_188,axis,COAD_AXIS_188,Decursin | ACHE/MYC,COAD,integrated_axis,0.412523353798953,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_189,axis,COAD_AXIS_189,Angustidine | ACHE/MYC,COAD,integrated_axis,0.4123612375893943,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_190,axis,COAD_AXIS_190,Quercetin | ACHE/SSRP1,COAD,integrated_axis,0.4238029157436238,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_191,axis,COAD_AXIS_191,"methyl (E)-2-[(2S,3Z,... | ACHE/SP1",COAD,integrated_axis,0.4102222916872545,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_192,axis,COAD_AXIS_192,Angustidine | ACHE/SP1,COAD,integrated_axis,0.4102175225439338,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_193,axis,COAD_AXIS_193,Decursin | ACHE/SP1,COAD,integrated_axis,0.4102050043081297,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_194,axis,COAD_AXIS_194,Corydalmine | ACHE/SP1,COAD,integrated_axis,0.410567992548167,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_195,axis,COAD_AXIS_195,Marmesinin | ACHE/SP1,COAD,integrated_axis,0.4102712095257542,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_196,axis,COAD_AXIS_196,Kaempferol | ACHE/SP1,COAD,integrated_axis,0.4101316064901318,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_197,axis,COAD_AXIS_197,Quercetin | PPARG/CEBPG,COAD,integrated_axis,0.474504388238466,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_198,axis,COAD_AXIS_198,Kaempferol | PPARG/CEBPG,COAD,integrated_axis,0.4744126216311257,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_199,axis,COAD_AXIS_199,Eriodyctiol | HSP90AB1/MYC,COAD,integrated_axis,0.4153605033609892,IS4_low_priority_or_incomplete_axis
+axis::COAD_AXIS_200,axis,COAD_AXIS_200,Pectolinarigenin | ACHE/SP1,COAD,integrated_axis,0.4103355055848776,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_001,axis,LIHC_AXIS_001,Ellipticine | CYP1A1/NR1I3,LIHC,integrated_axis,0.7484698260809698,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_002,axis,LIHC_AXIS_002,Indirubin | AHR/NR1H3,LIHC,integrated_axis,0.7341620556267837,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_003,axis,LIHC_AXIS_003,Hyperforin | NR1I2/NR1I3,LIHC,integrated_axis,0.7011171158252517,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_004,axis,LIHC_AXIS_004,"4',5-Dihydroxyflavone | AR/FOXM1",LIHC,integrated_axis,0.7064039017788981,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_005,axis,LIHC_AXIS_005,Luteolin | XDH/CEBPB,LIHC,integrated_axis,0.6486419808134402,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_006,axis,LIHC_AXIS_006,Kaempferol | AHR/NR1H3,LIHC,integrated_axis,0.727638891709885,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_007,axis,LIHC_AXIS_007,Indirubin | AHR/NFKB,LIHC,integrated_axis,0.5848633980833109,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_008,axis,LIHC_AXIS_008,Quercetin | MMP1/EHF,LIHC,integrated_axis,0.7669307042133857,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_009,axis,LIHC_AXIS_009,Quercetin | CYP1A1/NR1I3,LIHC,integrated_axis,0.7313028879123435,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_010,axis,LIHC_AXIS_010,Kaempferol | MMP1/EHF,LIHC,integrated_axis,0.7626603619502674,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_011,axis,LIHC_AXIS_011,Luteolin | MMP1/EHF,LIHC,integrated_axis,0.7625300714016211,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_012,axis,LIHC_AXIS_012,Naringenin | CYP19A1/CEBPD,LIHC,integrated_axis,0.5934212077437165,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_013,axis,LIHC_AXIS_013,(-)-epigallocatechin-... | MMP1/EHF,LIHC,integrated_axis,0.760857223760948,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_014,axis,LIHC_AXIS_014,Indirubin | AHR/SMAD2,LIHC,integrated_axis,0.6678513813961284,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_015,axis,LIHC_AXIS_015,Hyperforin | NR1I2/HNF1A,LIHC,integrated_axis,0.6461312983427863,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_016,axis,LIHC_AXIS_016,Quercetin | ALOX5/NFKB,LIHC,integrated_axis,0.5697647757394363,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_017,axis,LIHC_AXIS_017,Kaempferol | CYP1A1/NR1I3,LIHC,integrated_axis,0.7237502235257974,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_018,axis,LIHC_AXIS_018,Galangin | CYP1A1/NR1I3,LIHC,integrated_axis,0.721826042251698,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_019,axis,LIHC_AXIS_019,Physovenine | ACHE/CEBPB,LIHC,integrated_axis,0.6439669160082451,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_020,axis,LIHC_AXIS_020,Quercetin | MMP1/EWSR1,LIHC,integrated_axis,0.7306068394582054,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_021,axis,LIHC_AXIS_021,Kaempferol | AHR/SMAD2,LIHC,integrated_axis,0.6614283747742458,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_022,axis,LIHC_AXIS_022,Indirubin | CDK1/E2F1,LIHC,integrated_axis,0.6795050577234238,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_023,axis,LIHC_AXIS_023,Quercetin | CDK1/E2F1,LIHC,integrated_axis,0.6727844192289889,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_024,axis,LIHC_AXIS_024,Baicalein | CDK1/E2F1,LIHC,integrated_axis,0.6752512784997172,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_025,axis,LIHC_AXIS_025,Kaempferol | MMP1/EWSR1,LIHC,integrated_axis,0.7254326932539468,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_026,axis,LIHC_AXIS_026,Luteolin | MMP1/EWSR1,LIHC,integrated_axis,0.7257697060838135,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_027,axis,LIHC_AXIS_027,Quercetin | CDK1/KLF5,LIHC,integrated_axis,0.6912572137009905,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_028,axis,LIHC_AXIS_028,Quercetin | CDK1/NFYA,LIHC,integrated_axis,0.6858582910683467,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_029,axis,LIHC_AXIS_029,Indirubin | AHR/NFE2L2,LIHC,integrated_axis,0.6645451344426287,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_030,axis,LIHC_AXIS_030,(-)-epigallocatechin-... | MMP1/EWSR1,LIHC,integrated_axis,0.7237061469971,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_031,axis,LIHC_AXIS_031,Quercetin | MMP1/CEBPG,LIHC,integrated_axis,0.7464101169661174,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_032,axis,LIHC_AXIS_032,Quercetin | CDK1/E2F4,LIHC,integrated_axis,0.6725234616320306,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_033,axis,LIHC_AXIS_033,Eckol | BACE1/HIF1A,LIHC,integrated_axis,0.601077692838057,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_034,axis,LIHC_AXIS_034,Quercetin | MMP1/SMAD2,LIHC,integrated_axis,0.7512244494920141,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_035,axis,LIHC_AXIS_035,Quercetin | CDK1/MYBL2,LIHC,integrated_axis,0.6620363634141274,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_036,axis,LIHC_AXIS_036,Quercetin | PLAU/E2F1,LIHC,integrated_axis,0.6390587427607778,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_037,axis,LIHC_AXIS_037,Kaempferol | AHR/NFE2L2,LIHC,integrated_axis,0.6584747448473909,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_038,axis,LIHC_AXIS_038,Ellipticine | CYP1A1/FOXO1,LIHC,integrated_axis,0.637972604883577,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_039,axis,LIHC_AXIS_039,Galangin | CYP1A1/FOXO1,LIHC,integrated_axis,0.6377428288024817,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_040,axis,LIHC_AXIS_040,Eckol | BACE1/CTNNB1,LIHC,integrated_axis,0.7042961554837668,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_041,axis,LIHC_AXIS_041,Indirubin | CDK1/E2F1,LIHC,integrated_axis,0.6582046086393205,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_042,axis,LIHC_AXIS_042,Luteolin | TYR/MITF,LIHC,integrated_axis,0.4782623647591338,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_043,axis,LIHC_AXIS_043,Rutaecarpine | CYP1A2/NR1I3,LIHC,integrated_axis,0.7490423896172473,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_044,axis,LIHC_AXIS_044,Kaempferol | MMP1/SMAD2,LIHC,integrated_axis,0.7460541100288853,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_045,axis,LIHC_AXIS_045,Luteolin | MMP1/SMAD2,LIHC,integrated_axis,0.746413209096492,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_046,axis,LIHC_AXIS_046,"4',5-Dihydroxyflavone | AR/E2F1",LIHC,integrated_axis,0.7406596978349425,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_047,axis,LIHC_AXIS_047,Artemisinin | CYP2B6/NR1I3,LIHC,integrated_axis,0.719511303436393,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_048,axis,LIHC_AXIS_048,Quercetin | AKR1B1/AP1,LIHC,integrated_axis,0.5793807311635282,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_049,axis,LIHC_AXIS_049,(-)-epigallocatechin-... | MMP1/SMAD2,LIHC,integrated_axis,0.7441341442674382,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_050,axis,LIHC_AXIS_050,Quercetin | MMP1/FOXO1,LIHC,integrated_axis,0.7529986097199449,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_051,axis,LIHC_AXIS_051,Quercetin | CDK1/SP1,LIHC,integrated_axis,0.6908688516051005,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_052,axis,LIHC_AXIS_052,Baicalein | CDK1/E2F1,LIHC,integrated_axis,0.6534091706493719,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_053,axis,LIHC_AXIS_053,Physovenine | ACHE/NFE2L2,LIHC,integrated_axis,0.6348483497450143,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_054,axis,LIHC_AXIS_054,Indirubin | CDK1/KLF5,LIHC,integrated_axis,0.676266412706014,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_055,axis,LIHC_AXIS_055,Triptolide | PTGS2/CEBPB,LIHC,integrated_axis,0.6007735409378911,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_056,axis,LIHC_AXIS_056,Quercetin | CDK1/E2F4,LIHC,integrated_axis,0.6536323855986432,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_057,axis,LIHC_AXIS_057,Eckol | BACE1/RELA,LIHC,integrated_axis,0.6258297359205042,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_058,axis,LIHC_AXIS_058,Quercetin | AKR1B1/NFKB2,LIHC,integrated_axis,0.6487023642980205,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_059,axis,LIHC_AXIS_059,Luteolin | MMP1/FOXO1,LIHC,integrated_axis,0.7477621112839113,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_060,axis,LIHC_AXIS_060,Kaempferol | MMP1/FOXO1,LIHC,integrated_axis,0.7478998908278996,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_061,axis,LIHC_AXIS_061,Quercetin | MMP1/CEBPB,LIHC,integrated_axis,0.7465374437418311,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_062,axis,LIHC_AXIS_062,"3,5-dihydroxy-2-(4-hy... | MAPK14/CEBPD",LIHC,integrated_axis,0.6048315524441331,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_063,axis,LIHC_AXIS_063,Chryseriol | MAPK14/CEBPD,LIHC,integrated_axis,0.6045343923458371,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_064,axis,LIHC_AXIS_064,Pectolinarigenin | MAPK14/CEBPD,LIHC,integrated_axis,0.6049914786913341,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_065,axis,LIHC_AXIS_065,Indirubin | AHR/NFE2L2,LIHC,integrated_axis,0.653055845600257,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_066,axis,LIHC_AXIS_066,Indirubin | CDK1/E2F4,LIHC,integrated_axis,0.6567251841131831,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_067,axis,LIHC_AXIS_067,Naringenin | CYP19A1/CEBPD,LIHC,integrated_axis,0.5139632505404674,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_068,axis,LIHC_AXIS_068,Quercetin | MMP1/CTNNB1,LIHC,integrated_axis,0.7274079982877729,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_069,axis,LIHC_AXIS_069,"4',5-Dihydroxyflavone | AR/FOXO1",LIHC,integrated_axis,0.7066302616178465,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_070,axis,LIHC_AXIS_070,Baicalein | CDK1/KLF5,LIHC,integrated_axis,0.6709155229487627,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_071,axis,LIHC_AXIS_071,(-)-epigallocatechin-... | MMP1/FOXO1,LIHC,integrated_axis,0.7457385482107409,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_072,axis,LIHC_AXIS_072,Quercetin | CYP1B1/CREB1,LIHC,integrated_axis,0.6724586895569844,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_073,axis,LIHC_AXIS_073,Kaempferol | AR/E2F1,LIHC,integrated_axis,0.7295077867067272,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_074,axis,LIHC_AXIS_074,Coryincine | ADRA1D/TBP,LIHC,integrated_axis,0.6163616793107816,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_075,axis,LIHC_AXIS_075,Indirubin | CDK1/MYBL2,LIHC,integrated_axis,0.6466579652633394,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_076,axis,LIHC_AXIS_076,Indirubin | CDK1/FOXO1,LIHC,integrated_axis,0.6635070747602106,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_077,axis,LIHC_AXIS_077,Eckol | BACE1/SP1,LIHC,integrated_axis,0.6182949159206493,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_078,axis,LIHC_AXIS_078,Kaempferol | MMP1/CEBPB,LIHC,integrated_axis,0.7419367492450862,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_079,axis,LIHC_AXIS_079,Luteolin | MMP1/CEBPB,LIHC,integrated_axis,0.7415711491839944,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_080,axis,LIHC_AXIS_080,Indirubin | CDK1/TFDP1,LIHC,integrated_axis,0.6640070715055019,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_081,axis,LIHC_AXIS_081,Kaempferol | CYP1B1/SP1,LIHC,integrated_axis,0.6634046666605427,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_082,axis,LIHC_AXIS_082,Indirubin | CDK1/SP1,LIHC,integrated_axis,0.6788528398755623,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_083,axis,LIHC_AXIS_083,Luteolin | MMP1/CTNNB1,LIHC,integrated_axis,0.7227737732614814,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_084,axis,LIHC_AXIS_084,Kaempferol | MMP1/CTNNB1,LIHC,integrated_axis,0.7228075805919515,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_085,axis,LIHC_AXIS_085,Baicalein | CDK1/E2F4,LIHC,integrated_axis,0.6512824023445003,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_086,axis,LIHC_AXIS_086,(-)-epigallocatechin-... | MMP1/CEBPB,LIHC,integrated_axis,0.7399228437320526,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_087,axis,LIHC_AXIS_087,Quercetin | PLAU/JUN,LIHC,integrated_axis,0.595847418056065,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_088,axis,LIHC_AXIS_088,Quercetin | MMP1/MYC,LIHC,integrated_axis,0.748651323667679,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_089,axis,LIHC_AXIS_089,(-)-epigallocatechin-... | MMP1/CTNNB1,LIHC,integrated_axis,0.7213934131242542,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_090,axis,LIHC_AXIS_090,Triptolide | PTGS2/NR1H3,LIHC,integrated_axis,0.679078803856503,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_091,axis,LIHC_AXIS_091,Kaempferol | AR/FOXM1,LIHC,integrated_axis,0.695766294035061,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_092,axis,LIHC_AXIS_092,"4',5-Dihydroxyflavone | AR/HDAC1",LIHC,integrated_axis,0.7818611871908144,IS1_publication_core_axis
+axis::LIHC_AXIS_093,axis,LIHC_AXIS_093,Rocaglamide | RELA/E2F1,LIHC,integrated_axis,0.6242334615724967,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_094,axis,LIHC_AXIS_094,Quercetin | CDK1/TFDP1,LIHC,integrated_axis,0.6569473636565769,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_095,axis,LIHC_AXIS_095,Baicalein | CDK1/FOXO1,LIHC,integrated_axis,0.6586349866436711,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_096,axis,LIHC_AXIS_096,Quercetin | MMP1/CEBPG,LIHC,integrated_axis,0.719593937673216,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_097,axis,LIHC_AXIS_097,Beta-naphthoflavone | AHR/NR1H3,LIHC,integrated_axis,0.6784183014071234,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_098,axis,LIHC_AXIS_098,Eckol | BACE1/RELA,LIHC,integrated_axis,0.5835473315789521,IS3_supplementary_mechanistic_axis
+axis::LIHC_AXIS_099,axis,LIHC_AXIS_099,Quercetin | MMP1/HOPX,LIHC,integrated_axis,0.6986866858345353,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_100,axis,LIHC_AXIS_100,Quercetin | CYP1A1/NR1H3,LIHC,integrated_axis,0.6993193413761969,IS2_high_priority_validation_axis
+axis::LIHC_AXIS_101,axis,LIHC_AXIS_101,Indirubin | AHR/STAT3,LIHC,integrated_axis,0.4128522493678858,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_102,axis,LIHC_AXIS_102,Indirubin | AHR,LIHC,integrated_axis,0.3523864314971027,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_103,axis,LIHC_AXIS_103,"4',5-Dihydroxyflavone | AR/E2F1",LIHC,integrated_axis,0.4075663783031468,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_104,axis,LIHC_AXIS_104,Eriodyctiol | HSP90AB1/HSF1,LIHC,integrated_axis,0.3659926828358736,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_105,axis,LIHC_AXIS_105,Indirubin | CDK1/E2F4,LIHC,integrated_axis,0.3756883184581209,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_106,axis,LIHC_AXIS_106,Flavopiridol | CDK1/E2F1,LIHC,integrated_axis,0.3829765596418062,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_107,axis,LIHC_AXIS_107,Luteolin | MMP1/MYC,LIHC,integrated_axis,0.359478413726797,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_108,axis,LIHC_AXIS_108,Kaempferol | MMP1/MYC,LIHC,integrated_axis,0.3593487248190606,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_109,axis,LIHC_AXIS_109,Kaempferol | AR/FOXO1,LIHC,integrated_axis,0.4149296633816382,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_110,axis,LIHC_AXIS_110,Quercetin | MMP1/TCF7L2,LIHC,integrated_axis,0.3659959752503892,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_111,axis,LIHC_AXIS_111,"4',5-Dihydroxyflavone | AR/MYC",LIHC,integrated_axis,0.4143212130502524,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_112,axis,LIHC_AXIS_112,Kaempferol | MMP1/CEBPG,LIHC,integrated_axis,0.3898458585050922,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_113,axis,LIHC_AXIS_113,Luteolin | MMP1/CEBPG,LIHC,integrated_axis,0.3900596166005539,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_114,axis,LIHC_AXIS_114,Artemisinin | CYP2B6/FOXM1,LIHC,integrated_axis,0.4123978573426335,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_115,axis,LIHC_AXIS_115,Kaempferol | DPP4/HNF1A,LIHC,integrated_axis,0.3898680042337687,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_116,axis,LIHC_AXIS_116,Quercetin | CYP1B1/TBP,LIHC,integrated_axis,0.3035654756898819,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_117,axis,LIHC_AXIS_117,Quercetin | CYP1B1/TBP,LIHC,integrated_axis,0.3071089177642529,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_118,axis,LIHC_AXIS_118,(-)-epigallocatechin-... | MMP1/MYC,LIHC,integrated_axis,0.3587572105212519,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_119,axis,LIHC_AXIS_119,Eriodyctiol | HSP90AB1/DDIT3,LIHC,integrated_axis,0.3511176550191607,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_120,axis,LIHC_AXIS_120,Luteolin | MMP1/HOPX,LIHC,integrated_axis,0.3069937270387501,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_121,axis,LIHC_AXIS_121,Kaempferol | MMP1/HOPX,LIHC,integrated_axis,0.30679238847308,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_122,axis,LIHC_AXIS_122,(-)-epigallocatechin-... | MMP1/CEBPG,LIHC,integrated_axis,0.3896196219913189,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_123,axis,LIHC_AXIS_123,Quercetin | PLAU/FOXM1,LIHC,integrated_axis,0.3254424857379604,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_124,axis,LIHC_AXIS_124,Eriodyctiol | HSP90AB1/AHR,LIHC,integrated_axis,0.3909485206324776,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_125,axis,LIHC_AXIS_125,Kaempferol | AHR,LIHC,integrated_axis,0.3519328426331245,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_126,axis,LIHC_AXIS_126,Kaempferol | AHR/STAT3,LIHC,integrated_axis,0.4119469518036371,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_127,axis,LIHC_AXIS_127,Baicalein | CDK1/E2F4,LIHC,integrated_axis,0.3751718892447585,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_128,axis,LIHC_AXIS_128,"3,4-benzopyrene | AHR/NR1H3",LIHC,integrated_axis,0.4027745409597376,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_129,axis,LIHC_AXIS_129,Eriodyctiol | HSP90AB1/DDIT3,LIHC,integrated_axis,0.3885965350793164,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_130,axis,LIHC_AXIS_130,Quercetin | PLAU/GTF3A,LIHC,integrated_axis,0.3121022201734661,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_131,axis,LIHC_AXIS_131,(-)-epigallocatechin-... | MMP1/HOPX,LIHC,integrated_axis,0.306024049447442,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_132,axis,LIHC_AXIS_132,Kaempferol | CYP1A1/NR1H3,LIHC,integrated_axis,0.3883252053164284,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_133,axis,LIHC_AXIS_133,Luteolin | MMP1/TCF7L2,LIHC,integrated_axis,0.3651140192698529,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_134,axis,LIHC_AXIS_134,Kaempferol | MMP1/TCF7L2,LIHC,integrated_axis,0.3651083663532577,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_135,axis,LIHC_AXIS_135,Quercetin | CDK1/E2F1,LIHC,integrated_axis,0.3310384342478659,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_136,axis,LIHC_AXIS_136,Ellipticine | CYP1A1/NR1H3,LIHC,integrated_axis,0.3890858701506219,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_137,axis,LIHC_AXIS_137,Galangin | CYP1A1/NR1H3,LIHC,integrated_axis,0.3891978730479331,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_138,axis,LIHC_AXIS_138,Quercetin | CDK1/SMAD7,LIHC,integrated_axis,0.3430547242354816,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_139,axis,LIHC_AXIS_139,Quercetin | CDK1/MYBL2,LIHC,integrated_axis,0.3434877298349622,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_140,axis,LIHC_AXIS_140,Quercetin | MMP1/CTNNB1,LIHC,integrated_axis,0.3444437981142678,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_141,axis,LIHC_AXIS_141,Allopseudococain | SLC6A2/CEBPB,LIHC,integrated_axis,0.4191031395293524,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_142,axis,LIHC_AXIS_142,Indirubin | CDK1/TFDP1,LIHC,integrated_axis,0.378072846773314,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_143,axis,LIHC_AXIS_143,Quercetin | MMP1/ETV7,LIHC,integrated_axis,0.3541687554342929,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_144,axis,LIHC_AXIS_144,Luteolin | DPP4/HNF1A,LIHC,integrated_axis,0.3889200061235057,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_145,axis,LIHC_AXIS_145,Quercetin | MMP1/RELA,LIHC,integrated_axis,0.3805935604865559,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_146,axis,LIHC_AXIS_146,"4',5-Dihydroxyflavone | AR/HDAC1",LIHC,integrated_axis,0.4263158199388302,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_147,axis,LIHC_AXIS_147,Artemisinin | CYP2B6/HNF1A,LIHC,integrated_axis,0.4060954348134288,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_148,axis,LIHC_AXIS_148,"4',5-Dihydroxyflavone | AR/MYBL2",LIHC,integrated_axis,0.3945975278484558,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_149,axis,LIHC_AXIS_149,Flavopiridol | CDK1/KLF5,LIHC,integrated_axis,0.3962768324826471,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_150,axis,LIHC_AXIS_150,Quercetin | BACE1/CTNNB1,LIHC,integrated_axis,0.3847226759128652,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_151,axis,LIHC_AXIS_151,Indirubin | GSK3B/CEBPB,LIHC,integrated_axis,0.4230439151830618,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_152,axis,LIHC_AXIS_152,Eriodyctiol | HSP90AB1/CEBPD,LIHC,integrated_axis,0.4096474322162869,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_153,axis,LIHC_AXIS_153,Kaempferol | CYP1B1/CREB1,LIHC,integrated_axis,0.3124221334115356,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_154,axis,LIHC_AXIS_154,Quercetin | PLAU/E2F1,LIHC,integrated_axis,0.3189431299441522,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_155,axis,LIHC_AXIS_155,Kaempferol | MMP1/CTNNB1,LIHC,integrated_axis,0.343873293614195,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_156,axis,LIHC_AXIS_156,Luteolin | MMP1/CTNNB1,LIHC,integrated_axis,0.3441063668861516,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_157,axis,LIHC_AXIS_157,Fisetin | CTNNB1/E2F1,LIHC,integrated_axis,0.4133238712510435,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_158,axis,LIHC_AXIS_158,Daucene | CTNNB1/E2F1,LIHC,integrated_axis,0.4135050826724852,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_159,axis,LIHC_AXIS_159,Uosolic Acid | RELA/E2F1,LIHC,integrated_axis,0.3994215135349186,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_160,axis,LIHC_AXIS_160,Luteolin | MMP1/RELA,LIHC,integrated_axis,0.3801546902536862,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_161,axis,LIHC_AXIS_161,Kaempferol | MMP1/RELA,LIHC,integrated_axis,0.3803730553198369,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_162,axis,LIHC_AXIS_162,Baicalein | CDK1/TFDP1,LIHC,integrated_axis,0.3773118380108221,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_163,axis,LIHC_AXIS_163,Rocaglamide | RELA/CEBPB,LIHC,integrated_axis,0.4034577704236332,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_164,axis,LIHC_AXIS_164,Kaempferol | MMP1/ETV7,LIHC,integrated_axis,0.353307202947219,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_165,axis,LIHC_AXIS_165,Luteolin | MMP1/ETV7,LIHC,integrated_axis,0.3532147662711744,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_166,axis,LIHC_AXIS_166,(-)-epigallocatechin-... | BACE1/CTNNB1,LIHC,integrated_axis,0.3849797639957676,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_167,axis,LIHC_AXIS_167,Acteoside | BACE1/CTNNB1,LIHC,integrated_axis,0.3848909110058344,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_168,axis,LIHC_AXIS_168,"3',4',7-trihydroxyfla... | BACE1/CTNNB1",LIHC,integrated_axis,0.3847190087661371,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_169,axis,LIHC_AXIS_169,Quercetin | CDK1/E2F1,LIHC,integrated_axis,0.3295979010579403,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_170,axis,LIHC_AXIS_170,(-)-epigallocatechin-... | MMP1/RELA,LIHC,integrated_axis,0.3800449841612706,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_171,axis,LIHC_AXIS_171,Beta-naphthoflavone | AHR/SMAD2,LIHC,integrated_axis,0.4021494622456263,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_172,axis,LIHC_AXIS_172,Quercetin | CTNNB1/E2F1,LIHC,integrated_axis,0.404798476842427,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_173,axis,LIHC_AXIS_173,Quercetin | CDK1/ARID3A,LIHC,integrated_axis,0.3352007362444272,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_174,axis,LIHC_AXIS_174,Kaempferol | DPP4/CDX2,LIHC,integrated_axis,0.3696684043675306,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_175,axis,LIHC_AXIS_175,Eriodyctiol | HSP90AB1/STAT3,LIHC,integrated_axis,0.4113327126990003,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_176,axis,LIHC_AXIS_176,Collagen | BACE1/CTNNB1,LIHC,integrated_axis,0.3847986930534876,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_177,axis,LIHC_AXIS_177,(-)-epigallocatechin-... | MMP1/ETV7,LIHC,integrated_axis,0.3525819270738791,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_178,axis,LIHC_AXIS_178,Kaempferol | CYP1B1/TBP,LIHC,integrated_axis,0.3054781402664537,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_179,axis,LIHC_AXIS_179,Tanshinone iia | RELA/E2F1,LIHC,integrated_axis,0.4055862764752106,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_180,axis,LIHC_AXIS_180,"3,5-dihydroxy-2-(4-hy... | RELA/E2F1",LIHC,integrated_axis,0.4058842991300314,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_181,axis,LIHC_AXIS_181,Taxifolin | RELA/E2F1,LIHC,integrated_axis,0.4056034981295033,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_182,axis,LIHC_AXIS_182,Praeruptorin A | RELA/E2F1,LIHC,integrated_axis,0.4058106690571568,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_183,axis,LIHC_AXIS_183,ellagic acid | RELA/E2F1,LIHC,integrated_axis,0.4056781103048706,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_184,axis,LIHC_AXIS_184,Wogonin | RELA/E2F1,LIHC,integrated_axis,0.4059696608862426,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_185,axis,LIHC_AXIS_185,arachidonic acid | RELA/E2F1,LIHC,integrated_axis,0.4060015978626656,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_186,axis,LIHC_AXIS_186,Naringenin | RELA/E2F1,LIHC,integrated_axis,0.4056460762932313,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_187,axis,LIHC_AXIS_187,Kaempferol | RELA/E2F1,LIHC,integrated_axis,0.4054817833513263,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_188,axis,LIHC_AXIS_188,Artemisinin | RELA/E2F1,LIHC,integrated_axis,0.4056384049805612,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_189,axis,LIHC_AXIS_189,Licochalcone A | RELA/E2F1,LIHC,integrated_axis,0.4054997754957802,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_190,axis,LIHC_AXIS_190,Irisolidone | RELA/E2F1,LIHC,integrated_axis,0.4056056874417407,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_191,axis,LIHC_AXIS_191,Fisetin | RELA/E2F1,LIHC,integrated_axis,0.4057960390810364,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_192,axis,LIHC_AXIS_192,Picropodophyllin | RELA/E2F1,LIHC,integrated_axis,0.4058452978032507,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_193,axis,LIHC_AXIS_193,Triptolide | RELA/E2F1,LIHC,integrated_axis,0.4058839237223322,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_194,axis,LIHC_AXIS_194,Baicalein | RELA/E2F1,LIHC,integrated_axis,0.405638631829148,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_195,axis,LIHC_AXIS_195,Acacetin | RELA/E2F1,LIHC,integrated_axis,0.4060228262913,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_196,axis,LIHC_AXIS_196,Deoxypodophyllotoxin | RELA/E2F1,LIHC,integrated_axis,0.4059152281224003,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_197,axis,LIHC_AXIS_197,(-)-epigallocatechin-... | RELA/E2F1,LIHC,integrated_axis,0.4058597831031361,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_198,axis,LIHC_AXIS_198,Yamogenin | RELA/E2F1,LIHC,integrated_axis,0.4057546792741692,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_199,axis,LIHC_AXIS_199,Luteolin | RELA/E2F1,LIHC,integrated_axis,0.4057454304047783,IS4_low_priority_or_incomplete_axis
+axis::LIHC_AXIS_200,axis,LIHC_AXIS_200,Sophoridine | RELA/E2F1,LIHC,integrated_axis,0.4063406944836691,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_001,axis,STAD_AXIS_001,Quercetin | CYP1B1/AHR,STAD,integrated_axis,0.7675518441280316,IS2_high_priority_validation_axis
+axis::STAD_AXIS_002,axis,STAD_AXIS_002,Quercetin | CYP1B1/EP300,STAD,integrated_axis,0.7822277309126494,IS1_publication_core_axis
+axis::STAD_AXIS_003,axis,STAD_AXIS_003,Kaempferol | CYP1B1/EP300,STAD,integrated_axis,0.7676943087178263,IS2_high_priority_validation_axis
+axis::STAD_AXIS_004,axis,STAD_AXIS_004,Kaempferol | CYP1B1/AHR,STAD,integrated_axis,0.750446947801712,IS2_high_priority_validation_axis
+axis::STAD_AXIS_005,axis,STAD_AXIS_005,Quercetin | PLAU/GTF3A,STAD,integrated_axis,0.8091136413838345,IS1_publication_core_axis
+axis::STAD_AXIS_006,axis,STAD_AXIS_006,Indirubin | AHR,STAD,integrated_axis,0.7162146907963093,IS2_high_priority_validation_axis
+axis::STAD_AXIS_007,axis,STAD_AXIS_007,Quercetin | PLAU/RELA,STAD,integrated_axis,0.8127682175218977,IS1_publication_core_axis
+axis::STAD_AXIS_008,axis,STAD_AXIS_008,Quercetin | PLAU/E2F1,STAD,integrated_axis,0.8162413546880012,IS1_publication_core_axis
+axis::STAD_AXIS_009,axis,STAD_AXIS_009,Baicalein | ALOX12/FOS,STAD,integrated_axis,0.7087064947223843,IS2_high_priority_validation_axis
+axis::STAD_AXIS_010,axis,STAD_AXIS_010,Quercetin | PLAU/MYC,STAD,integrated_axis,0.8267994771279995,IS1_publication_core_axis
+axis::STAD_AXIS_011,axis,STAD_AXIS_011,Eckol | BACE1/RELA,STAD,integrated_axis,0.7700667820785164,IS2_high_priority_validation_axis
+axis::STAD_AXIS_012,axis,STAD_AXIS_012,Kaempferol | AHR,STAD,integrated_axis,0.70958302159201,IS2_high_priority_validation_axis
+axis::STAD_AXIS_013,axis,STAD_AXIS_013,Quercetin | CYP1B1/ESR1,STAD,integrated_axis,0.7883330953808916,IS1_publication_core_axis
+axis::STAD_AXIS_014,axis,STAD_AXIS_014,Naringenin | CYP19A1/RELA,STAD,integrated_axis,0.7681238864924904,IS2_high_priority_validation_axis
+axis::STAD_AXIS_015,axis,STAD_AXIS_015,Eckol | BACE1/HSF1,STAD,integrated_axis,0.7385558422147566,IS2_high_priority_validation_axis
+axis::STAD_AXIS_016,axis,STAD_AXIS_016,Quercetin | ALOX5/RELA,STAD,integrated_axis,0.7383217993334894,IS2_high_priority_validation_axis
+axis::STAD_AXIS_017,axis,STAD_AXIS_017,Quercetin | PLAU/ETS1,STAD,integrated_axis,0.831244882031456,IS1_publication_core_axis
+axis::STAD_AXIS_018,axis,STAD_AXIS_018,Kaempferol | CYP1B1/ESR1,STAD,integrated_axis,0.7704307133465835,IS2_high_priority_validation_axis
+axis::STAD_AXIS_019,axis,STAD_AXIS_019,Quercetin | AKR1B1/RELA,STAD,integrated_axis,0.7948038136923004,IS1_publication_core_axis
+axis::STAD_AXIS_020,axis,STAD_AXIS_020,Coryincine | ADRA1D/RELA,STAD,integrated_axis,0.7959308804985041,IS1_publication_core_axis
+axis::STAD_AXIS_021,axis,STAD_AXIS_021,Eriodyctiol | HSP90AB1/HOPX,STAD,integrated_axis,0.8192460420844396,IS1_publication_core_axis
+axis::STAD_AXIS_022,axis,STAD_AXIS_022,Quercetin | PLAU/HOXD3,STAD,integrated_axis,0.8149238429555395,IS1_publication_core_axis
+axis::STAD_AXIS_023,axis,STAD_AXIS_023,Guggulsterone | PGR/EPAS1,STAD,integrated_axis,0.7330060886796682,IS2_high_priority_validation_axis
+axis::STAD_AXIS_024,axis,STAD_AXIS_024,Quercetin | PLAU/JUN,STAD,integrated_axis,0.8162367726106996,IS1_publication_core_axis
+axis::STAD_AXIS_025,axis,STAD_AXIS_025,Alpha-naphthoflavone | CYP1B1/AHR,STAD,integrated_axis,0.7124052798775042,IS2_high_priority_validation_axis
+axis::STAD_AXIS_026,axis,STAD_AXIS_026,Quercetin | CYP1B1/CREB1,STAD,integrated_axis,0.7644971461414323,IS2_high_priority_validation_axis
+axis::STAD_AXIS_027,axis,STAD_AXIS_027,Quercetin | PLAU/FOS,STAD,integrated_axis,0.8194719619094621,IS1_publication_core_axis
+axis::STAD_AXIS_028,axis,STAD_AXIS_028,Quercetin | MMP1/HOPX,STAD,integrated_axis,0.771803090168974,IS2_high_priority_validation_axis
+axis::STAD_AXIS_029,axis,STAD_AXIS_029,Quercetin | PLAU/HIF1A,STAD,integrated_axis,0.8191509548381224,IS1_publication_core_axis
+axis::STAD_AXIS_030,axis,STAD_AXIS_030,Eckol | BACE1/CTNNB1,STAD,integrated_axis,0.6901395176871422,IS2_high_priority_validation_axis
+axis::STAD_AXIS_031,axis,STAD_AXIS_031,Eckol | BACE1/HIF1A,STAD,integrated_axis,0.7181141313331327,IS2_high_priority_validation_axis
+axis::STAD_AXIS_032,axis,STAD_AXIS_032,Triptolide | PLAU/GTF3A,STAD,integrated_axis,0.7626656743931722,IS2_high_priority_validation_axis
+axis::STAD_AXIS_033,axis,STAD_AXIS_033,(-)-epigallocatechin-... | PLAU/GTF3A,STAD,integrated_axis,0.7623598978737824,IS2_high_priority_validation_axis
+axis::STAD_AXIS_034,axis,STAD_AXIS_034,Kaempferol | MMP1/HOPX,STAD,integrated_axis,0.7674709101076617,IS2_high_priority_validation_axis
+axis::STAD_AXIS_035,axis,STAD_AXIS_035,Luteolin | MMP1/HOPX,STAD,integrated_axis,0.7673778471681771,IS2_high_priority_validation_axis
+axis::STAD_AXIS_036,axis,STAD_AXIS_036,(-)-epigallocatechin-... | MMP1/HOPX,STAD,integrated_axis,0.7662527349149594,IS2_high_priority_validation_axis
+axis::STAD_AXIS_037,axis,STAD_AXIS_037,Indirubin | AHR/PITX2,STAD,integrated_axis,0.7267858488073485,IS2_high_priority_validation_axis
+axis::STAD_AXIS_038,axis,STAD_AXIS_038,Quercetin | ALOX5/RORA,STAD,integrated_axis,0.7372148171989216,IS2_high_priority_validation_axis
+axis::STAD_AXIS_039,axis,STAD_AXIS_039,Quercetin | PLAU/ETV4,STAD,integrated_axis,0.7857710830761634,IS1_publication_core_axis
+axis::STAD_AXIS_040,axis,STAD_AXIS_040,Quercetin | PLAU/REL,STAD,integrated_axis,0.8044152302204229,IS1_publication_core_axis
+axis::STAD_AXIS_041,axis,STAD_AXIS_041,Quercetin | PLAU/RUNX2,STAD,integrated_axis,0.8067579978038836,IS1_publication_core_axis
+axis::STAD_AXIS_042,axis,STAD_AXIS_042,Quercetin | PLAU/ATF4,STAD,integrated_axis,0.7657956955663129,IS2_high_priority_validation_axis
+axis::STAD_AXIS_043,axis,STAD_AXIS_043,Acacetin | CYP1B1/AHR,STAD,integrated_axis,0.6957734391125764,IS2_high_priority_validation_axis
+axis::STAD_AXIS_044,axis,STAD_AXIS_044,Kaempferol | AHR/PITX2,STAD,integrated_axis,0.7216021092115471,IS2_high_priority_validation_axis
+axis::STAD_AXIS_045,axis,STAD_AXIS_045,Kaempferol | CYP1B1/CREB1,STAD,integrated_axis,0.7474551390518688,IS2_high_priority_validation_axis
+axis::STAD_AXIS_046,axis,STAD_AXIS_046,Alpha-naphthoflavone | CYP1B1/EP300,STAD,integrated_axis,0.7316855382919377,IS2_high_priority_validation_axis
+axis::STAD_AXIS_047,axis,STAD_AXIS_047,Kaempferol | ALOX5/RELA,STAD,integrated_axis,0.7058635903169588,IS2_high_priority_validation_axis
+axis::STAD_AXIS_048,axis,STAD_AXIS_048,"3,5-dihydroxy-2-(4-hy... | CYP1B1/AHR",STAD,integrated_axis,0.6919366979867971,IS2_high_priority_validation_axis
+axis::STAD_AXIS_049,axis,STAD_AXIS_049,Quercetin | PLAU/NR3C1,STAD,integrated_axis,0.8114054178277956,IS1_publication_core_axis
+axis::STAD_AXIS_050,axis,STAD_AXIS_050,Quercetin | PLAU/NFKB1,STAD,integrated_axis,0.8082891741944616,IS1_publication_core_axis
+axis::STAD_AXIS_051,axis,STAD_AXIS_051,Guggulsterone | PGR/FOS,STAD,integrated_axis,0.755440714135613,IS2_high_priority_validation_axis
+axis::STAD_AXIS_052,axis,STAD_AXIS_052,Quercetin | BACE1/RELA,STAD,integrated_axis,0.6840573514990518,IS2_high_priority_validation_axis
+axis::STAD_AXIS_053,axis,STAD_AXIS_053,Quercetin | MMP9/RELA,STAD,integrated_axis,0.7289249124036327,IS2_high_priority_validation_axis
+axis::STAD_AXIS_054,axis,STAD_AXIS_054,Rocaglamide | RELA,STAD,integrated_axis,0.6817114321793174,IS2_high_priority_validation_axis
+axis::STAD_AXIS_055,axis,STAD_AXIS_055,Quercetin | CYP1B1/AHR,STAD,integrated_axis,0.6071036952811092,IS3_supplementary_mechanistic_axis
+axis::STAD_AXIS_056,axis,STAD_AXIS_056,Eckol | BACE1/NFKB1,STAD,integrated_axis,0.7030606781561636,IS2_high_priority_validation_axis
+axis::STAD_AXIS_057,axis,STAD_AXIS_057,Indirubin | AHR/EPAS1,STAD,integrated_axis,0.7484634629199624,IS2_high_priority_validation_axis
+axis::STAD_AXIS_058,axis,STAD_AXIS_058,Eckol | BACE1/STAT3,STAD,integrated_axis,0.7156356548168985,IS2_high_priority_validation_axis
+axis::STAD_AXIS_059,axis,STAD_AXIS_059,"1-(3,5-dihydroxypheny... | CYP1B1/AHR",STAD,integrated_axis,0.6880599570902012,IS2_high_priority_validation_axis
+axis::STAD_AXIS_060,axis,STAD_AXIS_060,Pyrene | CYP1B1/AHR,STAD,integrated_axis,0.6878060440780552,IS2_high_priority_validation_axis
+axis::STAD_AXIS_061,axis,STAD_AXIS_061,Galangin | CYP1B1/AHR,STAD,integrated_axis,0.687926582479102,IS2_high_priority_validation_axis
+axis::STAD_AXIS_062,axis,STAD_AXIS_062,Kaempferide | CYP1B1/AHR,STAD,integrated_axis,0.6877902055270049,IS2_high_priority_validation_axis
+axis::STAD_AXIS_063,axis,STAD_AXIS_063,"3',4',7-trihydroxyfla... | BACE1/RELA",STAD,integrated_axis,0.6813742623343874,IS2_high_priority_validation_axis
+axis::STAD_AXIS_064,axis,STAD_AXIS_064,Acteoside | BACE1/RELA,STAD,integrated_axis,0.6812743160266714,IS2_high_priority_validation_axis
+axis::STAD_AXIS_065,axis,STAD_AXIS_065,(-)-epigallocatechin-... | BACE1/RELA,STAD,integrated_axis,0.6806114262808594,IS2_high_priority_validation_axis
+axis::STAD_AXIS_066,axis,STAD_AXIS_066,Eckol | BACE1/TCF7L2,STAD,integrated_axis,0.689148860105871,IS2_high_priority_validation_axis
+axis::STAD_AXIS_067,axis,STAD_AXIS_067,Quercetin | AKR1B1/NFKB2,STAD,integrated_axis,0.7588029925796724,IS2_high_priority_validation_axis
+axis::STAD_AXIS_068,axis,STAD_AXIS_068,Quercetin | MMP1/EWSR1,STAD,integrated_axis,0.7163547940104228,IS2_high_priority_validation_axis
+axis::STAD_AXIS_069,axis,STAD_AXIS_069,Chrysin | CYP1B1/AHR,STAD,integrated_axis,0.6852883143673485,IS2_high_priority_validation_axis
+axis::STAD_AXIS_070,axis,STAD_AXIS_070,Diosmetin | CYP1B1/AHR,STAD,integrated_axis,0.6855513405958058,IS2_high_priority_validation_axis
+axis::STAD_AXIS_071,axis,STAD_AXIS_071,Apigenin | CYP1B1/AHR,STAD,integrated_axis,0.68548999075962,IS2_high_priority_validation_axis
+axis::STAD_AXIS_072,axis,STAD_AXIS_072,Luteolin | CYP1B1/AHR,STAD,integrated_axis,0.6855756522316929,IS2_high_priority_validation_axis
+axis::STAD_AXIS_073,axis,STAD_AXIS_073,Collagen | BACE1/RELA,STAD,integrated_axis,0.6787459982504523,IS3_supplementary_mechanistic_axis
+axis::STAD_AXIS_074,axis,STAD_AXIS_074,Indirubin | AHR/NR3C1,STAD,integrated_axis,0.7154509771722767,IS2_high_priority_validation_axis
+axis::STAD_AXIS_075,axis,STAD_AXIS_075,Indirubin | AHR/STAT3,STAD,integrated_axis,0.7148777968927486,IS2_high_priority_validation_axis
+axis::STAD_AXIS_076,axis,STAD_AXIS_076,Triptolide | PLAU/RELA,STAD,integrated_axis,0.7525800159457713,IS2_high_priority_validation_axis
+axis::STAD_AXIS_077,axis,STAD_AXIS_077,(-)-epigallocatechin-... | PLAU/RELA,STAD,integrated_axis,0.7522367122416209,IS2_high_priority_validation_axis
+axis::STAD_AXIS_078,axis,STAD_AXIS_078,Quercetin | PLAU/RBPJ,STAD,integrated_axis,0.8119326960824196,IS1_publication_core_axis
+axis::STAD_AXIS_079,axis,STAD_AXIS_079,Quercetin | CYP1B1/AR,STAD,integrated_axis,0.7408042782897484,IS2_high_priority_validation_axis
+axis::STAD_AXIS_080,axis,STAD_AXIS_080,Pinosylvin | CYP1B1/AHR,STAD,integrated_axis,0.6825261306449846,IS2_high_priority_validation_axis
+axis::STAD_AXIS_081,axis,STAD_AXIS_081,Guggulsterone | PGR/RELA,STAD,integrated_axis,0.7191692107697676,IS2_high_priority_validation_axis
+axis::STAD_AXIS_082,axis,STAD_AXIS_082,Triptolide | PLAU/E2F1,STAD,integrated_axis,0.7551196371346708,IS2_high_priority_validation_axis
+axis::STAD_AXIS_083,axis,STAD_AXIS_083,(-)-epigallocatechin-... | PLAU/E2F1,STAD,integrated_axis,0.7554036462629652,IS2_high_priority_validation_axis
+axis::STAD_AXIS_084,axis,STAD_AXIS_084,Kaempferol | AHR/EPAS1,STAD,integrated_axis,0.741730161874226,IS2_high_priority_validation_axis
+axis::STAD_AXIS_085,axis,STAD_AXIS_085,(-)-epigallocatechin-... | APP/MYC,STAD,integrated_axis,0.8168519714642093,IS1_publication_core_axis
+axis::STAD_AXIS_086,axis,STAD_AXIS_086,Stigmasterol | PLAU/GTF3A,STAD,integrated_axis,0.7445435619563407,IS2_high_priority_validation_axis
+axis::STAD_AXIS_087,axis,STAD_AXIS_087,Homoeriodictyol | CYP1B1/AHR,STAD,integrated_axis,0.6819251077605081,IS2_high_priority_validation_axis
+axis::STAD_AXIS_088,axis,STAD_AXIS_088,Hydroxytyrosol | BACE1/RELA,STAD,integrated_axis,0.6748771029972853,IS3_supplementary_mechanistic_axis
+axis::STAD_AXIS_089,axis,STAD_AXIS_089,Eupatorin | CYP1B1/AHR,STAD,integrated_axis,0.6813484846243728,IS2_high_priority_validation_axis
+axis::STAD_AXIS_090,axis,STAD_AXIS_090,Myricetin | CYP1B1/AHR,STAD,integrated_axis,0.6810953655748775,IS2_high_priority_validation_axis
+axis::STAD_AXIS_091,axis,STAD_AXIS_091,Berberine | CYP1B1/AHR,STAD,integrated_axis,0.6811580804653354,IS2_high_priority_validation_axis
+axis::STAD_AXIS_092,axis,STAD_AXIS_092,Chryseriol | CYP1B1/AHR,STAD,integrated_axis,0.6812610605862187,IS2_high_priority_validation_axis
+axis::STAD_AXIS_093,axis,STAD_AXIS_093,Rutaecarpine | CYP1B1/AHR,STAD,integrated_axis,0.6811682436601993,IS2_high_priority_validation_axis
+axis::STAD_AXIS_094,axis,STAD_AXIS_094,Berberine chloride | CYP1B1/AHR,STAD,integrated_axis,0.6813277781458813,IS2_high_priority_validation_axis
+axis::STAD_AXIS_095,axis,STAD_AXIS_095,Quercetin | CYP1B1/TBP,STAD,integrated_axis,0.7115908545116185,IS2_high_priority_validation_axis
+axis::STAD_AXIS_096,axis,STAD_AXIS_096,Indirubin | AHR/NR1H3,STAD,integrated_axis,0.6931866636330284,IS2_high_priority_validation_axis
+axis::STAD_AXIS_097,axis,STAD_AXIS_097,Luteolin | MMP1/EWSR1,STAD,integrated_axis,0.7108339758362037,IS2_high_priority_validation_axis
+axis::STAD_AXIS_098,axis,STAD_AXIS_098,Kaempferol | MMP1/EWSR1,STAD,integrated_axis,0.7109642819408365,IS2_high_priority_validation_axis
+axis::STAD_AXIS_099,axis,STAD_AXIS_099,"2,4,2',4'-tetrahydrox... | BACE1/RELA",STAD,integrated_axis,0.6739703272986793,IS3_supplementary_mechanistic_axis
+axis::STAD_AXIS_100,axis,STAD_AXIS_100,Quercetin | PLAU/CREB1,STAD,integrated_axis,0.8019077494430396,IS1_publication_core_axis
+axis::STAD_AXIS_101,axis,STAD_AXIS_101,Euchrenone | BACE1/RELA,STAD,integrated_axis,0.4095940003319411,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_102,axis,STAD_AXIS_102,Goshuyuamide I | BACE1/RELA,STAD,integrated_axis,0.4096163314487223,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_103,axis,STAD_AXIS_103,5-hydroxy-7-methoxy-2... | BACE1/RELA,STAD,integrated_axis,0.4095810749283471,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_104,axis,STAD_AXIS_104,8-o-methylreyusi | BACE1/RELA,STAD,integrated_axis,0.4093889054351802,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_105,axis,STAD_AXIS_105,16-epi-Isositsirikine | BACE1/RELA,STAD,integrated_axis,0.4092241406722853,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_106,axis,STAD_AXIS_106,N-(2-Methylaminobenzo... | BACE1/RELA,STAD,integrated_axis,0.4094594648696625,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_107,axis,STAD_AXIS_107,Futokadsurin C | BACE1/RELA,STAD,integrated_axis,0.4096570454030704,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_108,axis,STAD_AXIS_108,Dasycarpamin | BACE1/RELA,STAD,integrated_axis,0.4097387201606601,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_109,axis,STAD_AXIS_109,Dihydrocorynantheine | BACE1/RELA,STAD,integrated_axis,0.4096664668675022,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_110,axis,STAD_AXIS_110,Evodiamide | BACE1/RELA,STAD,integrated_axis,0.4098427078671298,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_111,axis,STAD_AXIS_111,Leonticine | BACE1/RELA,STAD,integrated_axis,0.4099297459454531,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_112,axis,STAD_AXIS_112,Kadsurenone | BACE1/RELA,STAD,integrated_axis,0.4095421276607157,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_113,axis,STAD_AXIS_113,Tetramethoxyluteolin | BACE1/RELA,STAD,integrated_axis,0.4097179345894896,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_114,axis,STAD_AXIS_114,Triptolide | PLAU/MYC,STAD,integrated_axis,0.4235187034841121,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_115,axis,STAD_AXIS_115,(-)-epigallocatechin-... | PLAU/MYC,STAD,integrated_axis,0.4234476028067535,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_116,axis,STAD_AXIS_116,Kaempferol | AHR/NR3C1,STAD,integrated_axis,0.4085567512703134,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_117,axis,STAD_AXIS_117,Quercetin | MMP9/AHR,STAD,integrated_axis,0.3986279379425433,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_118,axis,STAD_AXIS_118,Indirubin | AHR,STAD,integrated_axis,0.3717594786016187,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_119,axis,STAD_AXIS_119,Kaempferol | AHR/STAT3,STAD,integrated_axis,0.4153980907872489,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_120,axis,STAD_AXIS_120,Baicalein | ALOX12/FOS,STAD,integrated_axis,0.351880567776839,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_121,axis,STAD_AXIS_121,Luteolin | BACE1/RELA,STAD,integrated_axis,0.3996061762432096,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_122,axis,STAD_AXIS_122,Bergaptin | BACE1/RELA,STAD,integrated_axis,0.3995389108914338,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_123,axis,STAD_AXIS_123,Podocarpusflavone A | BACE1/RELA,STAD,integrated_axis,0.3996209493525656,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_124,axis,STAD_AXIS_124,(-)-epigallocatechin-... | APP/AHR,STAD,integrated_axis,0.4140603422786704,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_125,axis,STAD_AXIS_125,3-hydroxy-4-methoxy-a... | PLAU/GTF3A,STAD,integrated_axis,0.394518699526242,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_126,axis,STAD_AXIS_126,3-hydroxy-4-methoxy-a... | PLAU/RELA,STAD,integrated_axis,0.3997418424031972,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_127,axis,STAD_AXIS_127,Kaempferol | AHR/NR1H3,STAD,integrated_axis,0.3878801455071073,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_128,axis,STAD_AXIS_128,Flavonol | CYP1B1/AHR,STAD,integrated_axis,0.3888051943288235,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_129,axis,STAD_AXIS_129,Tamarixetin | CYP1B1/AHR,STAD,integrated_axis,0.3887753762476474,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_130,axis,STAD_AXIS_130,Karanjin | CYP1B1/AHR,STAD,integrated_axis,0.388827749937891,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_131,axis,STAD_AXIS_131,"Kampferol-3,4'-dimeth... | CYP1B1/AHR",STAD,integrated_axis,0.3889014728116256,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_132,axis,STAD_AXIS_132,Tanshinone iia | ACHE/SP1,STAD,integrated_axis,0.4021515439661969,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_133,axis,STAD_AXIS_133,Myricetin | BACE1/RELA,STAD,integrated_axis,0.3987217240158668,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_134,axis,STAD_AXIS_134,Curcumin | BACE1/RELA,STAD,integrated_axis,0.3986828640468282,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_135,axis,STAD_AXIS_135,Quercetin | CYP1B1/TBP,STAD,integrated_axis,0.3451292932796035,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_136,axis,STAD_AXIS_136,Kaempferol | CYP1B1/AHR,STAD,integrated_axis,0.3764988059850744,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_137,axis,STAD_AXIS_137,"3',4',7-trihydroxyfla... | PLAU/GTF3A",STAD,integrated_axis,0.3954915665837787,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_138,axis,STAD_AXIS_138,"3',4',7-trihydroxyfla... | PLAU/RELA",STAD,integrated_axis,0.399636296762159,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_139,axis,STAD_AXIS_139,Quercetin | PLAU/FOXM1,STAD,integrated_axis,0.3721378233011219,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_140,axis,STAD_AXIS_140,Physovenine | ACHE/FOS,STAD,integrated_axis,0.3835223925156941,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_141,axis,STAD_AXIS_141,Luteolin | MMP9/RELA,STAD,integrated_axis,0.4091198467374067,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_142,axis,STAD_AXIS_142,Angustidine | ACHE/SP1,STAD,integrated_axis,0.4018398111607366,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_143,axis,STAD_AXIS_143,Corydalmine | ACHE/SP1,STAD,integrated_axis,0.4020490754759102,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_144,axis,STAD_AXIS_144,Kaempferol | ACHE/SP1,STAD,integrated_axis,0.4022573203585201,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_145,axis,STAD_AXIS_145,"methyl (E)-2-[(2S,3Z,... | ACHE/SP1",STAD,integrated_axis,0.4019541665631814,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_146,axis,STAD_AXIS_146,Decursin | ACHE/SP1,STAD,integrated_axis,0.4016353220179404,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_147,axis,STAD_AXIS_147,Marmesinin | ACHE/SP1,STAD,integrated_axis,0.4022974232065026,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_148,axis,STAD_AXIS_148,Acacetin | CYP1B1/EP300,STAD,integrated_axis,0.4109420707122832,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_149,axis,STAD_AXIS_149,Quercetin | PLAU/JUND,STAD,integrated_axis,0.3948874157090116,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_150,axis,STAD_AXIS_150,Coryincine | HTR2A/PITX2,STAD,integrated_axis,0.4385164617809201,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_151,axis,STAD_AXIS_151,5-hydroxyflavone | CYP1B1/AHR,STAD,integrated_axis,0.387094384231604,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_152,axis,STAD_AXIS_152,Ammidin | CYP1B1/AHR,STAD,integrated_axis,0.3872097339020124,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_153,axis,STAD_AXIS_153,Chalkone | CYP1B1/AHR,STAD,integrated_axis,0.3871507743177699,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_154,axis,STAD_AXIS_154,Cannabinol | CYP1B1/AHR,STAD,integrated_axis,0.3871516635018364,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_155,axis,STAD_AXIS_155,Evodiamine | CYP1B1/AHR,STAD,integrated_axis,0.3871438820451562,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_156,axis,STAD_AXIS_156,Pterostilbene | CYP1B1/AHR,STAD,integrated_axis,0.3871435201508959,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_157,axis,STAD_AXIS_157,7-hydroxy flavone | CYP1B1/AHR,STAD,integrated_axis,0.3871986665905824,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_158,axis,STAD_AXIS_158,Purpurin | CYP1B1/AHR,STAD,integrated_axis,0.3872567833515585,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_159,axis,STAD_AXIS_159,Cirsiliol | CYP1B1/AHR,STAD,integrated_axis,0.3871860435759551,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_160,axis,STAD_AXIS_160,"Trans-3,5-dihydroxy-5... | CYP1B1/AHR",STAD,integrated_axis,0.3871627816856187,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_161,axis,STAD_AXIS_161,Alizarin | CYP1B1/AHR,STAD,integrated_axis,0.3873112016477865,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_162,axis,STAD_AXIS_162,Flavone | CYP1B1/AHR,STAD,integrated_axis,0.3872714007684521,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_163,axis,STAD_AXIS_163,Scutellarein | CYP1B1/AHR,STAD,integrated_axis,0.3870255442476508,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_164,axis,STAD_AXIS_164,Dehydroevidiamine | CYP1B1/AHR,STAD,integrated_axis,0.3870482272303006,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_165,axis,STAD_AXIS_165,Baicalein | CYP1B1/AHR,STAD,integrated_axis,0.3870906834088666,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_166,axis,STAD_AXIS_166,Hesperetin | CYP1B1/AHR,STAD,integrated_axis,0.3870931204717784,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_167,axis,STAD_AXIS_167,Pongapin | CYP1B1/AHR,STAD,integrated_axis,0.3869947172169975,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_168,axis,STAD_AXIS_168,Dihydrosanguinarine | ACHE/SP1,STAD,integrated_axis,0.4021456279609778,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_169,axis,STAD_AXIS_169,Deltoin | ACHE/SP1,STAD,integrated_axis,0.4021768044575745,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_170,axis,STAD_AXIS_170,Pectolinarigenin | ACHE/SP1,STAD,integrated_axis,0.4020097105851427,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_171,axis,STAD_AXIS_171,Stepholidine | DRD1/FOS,STAD,integrated_axis,0.402868583016626,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_172,axis,STAD_AXIS_172,Quercetin | CYP1B1/SP1,STAD,integrated_axis,0.3847864961731747,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_173,axis,STAD_AXIS_173,Corydalmine | ACHE/JUN,STAD,integrated_axis,0.3884964104721582,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_174,axis,STAD_AXIS_174,Marmesinin | ACHE/JUN,STAD,integrated_axis,0.3884987062029061,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_175,axis,STAD_AXIS_175,"methyl (E)-2-[(2S,3Z,... | ACHE/JUN",STAD,integrated_axis,0.3888326528571719,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_176,axis,STAD_AXIS_176,Decursin | ACHE/JUN,STAD,integrated_axis,0.3879922266763709,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_177,axis,STAD_AXIS_177,Angustidine | ACHE/JUN,STAD,integrated_axis,0.3883405347055519,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_178,axis,STAD_AXIS_178,Kaempferol | ACHE/JUN,STAD,integrated_axis,0.3883153301724376,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_179,axis,STAD_AXIS_179,Apigenin | BACE1/RELA,STAD,integrated_axis,0.3979779469395932,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_180,axis,STAD_AXIS_180,Catechin | BACE1/RELA,STAD,integrated_axis,0.397780219703566,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_181,axis,STAD_AXIS_181,Eugeniin | BACE1/RELA,STAD,integrated_axis,0.3978843885433991,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_182,axis,STAD_AXIS_182,Stigmasterol | PLAU/RELA,STAD,integrated_axis,0.4056972949205156,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_183,axis,STAD_AXIS_183,Kaempferol | ALOX5/RORA,STAD,integrated_axis,0.4076687899558271,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_184,axis,STAD_AXIS_184,Pectolinarigenin | ACHE/JUN,STAD,integrated_axis,0.3885709439449266,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_185,axis,STAD_AXIS_185,Dihydrosanguinarine | ACHE/JUN,STAD,integrated_axis,0.3885993824919957,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_186,axis,STAD_AXIS_186,Deltoin | ACHE/JUN,STAD,integrated_axis,0.3886091652248914,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_187,axis,STAD_AXIS_187,Quercetin | PLAU/EGR1,STAD,integrated_axis,0.3951659966466753,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_188,axis,STAD_AXIS_188,Uosolic Acid | RELA,STAD,integrated_axis,0.3896475221439345,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_189,axis,STAD_AXIS_189,Fisetin | CDK2/MYC,STAD,integrated_axis,0.4250142746133777,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_190,axis,STAD_AXIS_190,Ellipticine | CYP1A1/AHR,STAD,integrated_axis,0.3475969165213845,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_191,axis,STAD_AXIS_191,Eriodyctiol | HSP90AB1/HIF1A,STAD,integrated_axis,0.4066426392476417,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_192,axis,STAD_AXIS_192,Quercetin | ALOX5/NFKB1,STAD,integrated_axis,0.4084100777679382,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_193,axis,STAD_AXIS_193,Beta-naphthoflavone | AHR,STAD,integrated_axis,0.373643076273443,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_194,axis,STAD_AXIS_194,Lucidumoside D | HSP90AB1/HOPX,STAD,integrated_axis,0.4085469882473653,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_195,axis,STAD_AXIS_195,prolithospermic acid | HSP90AB1/HOPX,STAD,integrated_axis,0.4084397269807799,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_196,axis,STAD_AXIS_196,Palmatine | HSP90AB1/HOPX,STAD,integrated_axis,0.408495197080471,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_197,axis,STAD_AXIS_197,Negletein | HSP90AB1/HOPX,STAD,integrated_axis,0.4087838656548919,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_198,axis,STAD_AXIS_198,Citromitin | HSP90AB1/HOPX,STAD,integrated_axis,0.4088483682153641,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_199,axis,STAD_AXIS_199,Isoxanthohumol | HSP90AB1/HOPX,STAD,integrated_axis,0.408541715254129,IS4_low_priority_or_incomplete_axis
+axis::STAD_AXIS_200,axis,STAD_AXIS_200,"5,2'-Dihydroxy-6,7,8-... | HSP90AB1/HOPX",STAD,integrated_axis,0.4086115344845129,IS4_low_priority_or_incomplete_axis
+cancer_context::COAD,cancer_context,COAD,COAD,COAD,study_context,,
+cancer_context::LIHC,cancer_context,LIHC,LIHC,LIHC,study_context,,
+cancer_context::STAD,cancer_context,STAD,STAD,STAD,study_context,,
+cell_state::COAD::Endothelial,cell_state,COAD::Endothelial,COAD Endothelial,COAD,single_cell_annotation,,
+cell_state::COAD::Fibroblast_CAF,cell_state,COAD::Fibroblast_CAF,COAD Fibroblast_CAF,COAD,single_cell_annotation,,
+cell_state::COAD::Myeloid,cell_state,COAD::Myeloid,COAD Myeloid,COAD,single_cell_annotation,,
+cell_state::COAD::T_NK_ILC,cell_state,COAD::T_NK_ILC,COAD T_NK_ILC,COAD,single_cell_annotation,,
+cell_state::LIHC::B_cell,cell_state,LIHC::B_cell,LIHC B_cell,LIHC,single_cell_annotation,,
+cell_state::LIHC::Myeloid,cell_state,LIHC::Myeloid,LIHC Myeloid,LIHC,single_cell_annotation,,
+cell_state::LIHC::Plasma_cell,cell_state,LIHC::Plasma_cell,LIHC Plasma_cell,LIHC,single_cell_annotation,,
+cell_state::LIHC::T_NK_ILC,cell_state,LIHC::T_NK_ILC,LIHC T_NK_ILC,LIHC,single_cell_annotation,,
+cell_state::LIHC::Tumor_Lineage,cell_state,LIHC::Tumor_Lineage,LIHC Tumor_Lineage,LIHC,single_cell_annotation,,
+cell_state::STAD::Fibroblast_CAF,cell_state,STAD::Fibroblast_CAF,STAD Fibroblast_CAF,STAD,single_cell_annotation,,
+cell_state::STAD::Myeloid,cell_state,STAD::Myeloid,STAD Myeloid,STAD,single_cell_annotation,,
+cell_state::STAD::T_NK_ILC,cell_state,STAD::T_NK_ILC,STAD T_NK_ILC,STAD,single_cell_annotation,,
+clinical_endpoint::COAD::survival,clinical_endpoint,COAD::survival,COAD survival,COAD,clinical_prognosis,,
+clinical_endpoint::LIHC::survival,clinical_endpoint,LIHC::survival,LIHC survival,LIHC,clinical_prognosis,,
+clinical_endpoint::STAD::survival,clinical_endpoint,STAD::survival,STAD survival,STAD,clinical_prognosis,,
+compound::CMPD002559,compound,CMPD002559,"2,4,2',4'-tetrahydroxychalcone",,tcm_drug_evidence,,
+compound::CMPD003830,compound,CMPD003830,Scutellarein,,tcm_drug_evidence,,
+compound::CMPD003852,compound,CMPD003852,Pyrene,,tcm_drug_evidence,,
+compound::CMPD003951,compound,CMPD003951,Chrysin,,tcm_drug_evidence,,
+compound::CMPD004090,compound,CMPD004090,Flavone,,tcm_drug_evidence,,
+compound::CMPD004403,compound,CMPD004403,Alizarin,,tcm_drug_evidence,,
+compound::CMPD004807,compound,CMPD004807,M-xylene,,tcm_drug_evidence,,
+compound::CMPD004917,compound,CMPD004917,Toluene,,tcm_drug_evidence,,
+compound::CMPD005156,compound,CMPD005156,Hydroxytyrosol,,tcm_drug_evidence,,
+compound::CMPD006353,compound,CMPD006353,Chalkone,,tcm_drug_evidence,,
+compound::CMPD007412,compound,CMPD007412,Cannabinol,,tcm_drug_evidence,,
+compound::CMPD008074,compound,CMPD008074,Purpurin,,tcm_drug_evidence,,
+compound::CMPD008994,compound,CMPD008994,Acteoside,,tcm_drug_evidence,,
+compound::CMPD010476,compound,CMPD010476,Flavonol,,tcm_drug_evidence,,
+compound::CMPD010794,compound,CMPD010794,Eugeniin,,tcm_drug_evidence,,
+compound::CMPD011207,compound,CMPD011207,Podocarpusflavone A,,tcm_drug_evidence,,
+compound::CMPD011639,compound,CMPD011639,Pterostilbene,,tcm_drug_evidence,,
+compound::CMPD011790,compound,CMPD011790,"Kampferol-3,4'-dimethyl ether",,tcm_drug_evidence,,
+compound::CMPD012823,compound,CMPD012823,Apigenin,,tcm_drug_evidence,,
+compound::CMPD013120,compound,CMPD013120,Pcr,,tcm_drug_evidence,,
+compound::CMPD013394,compound,CMPD013394,"1,2-dimethylbenzene",,tcm_drug_evidence,,
+compound::CMPD013588,compound,CMPD013588,2-epigalanthamine,,tcm_drug_evidence,,
+compound::CMPD014972,compound,CMPD014972,Pinosylvin,,tcm_drug_evidence,,
+compound::CMPD015715,compound,CMPD015715,"1-(3,5-dihydroxyphenyl)-2-(4-hydroxyphenyl)ethylene; (e)-form",,tcm_drug_evidence,,
+compound::CMPD015725,compound,CMPD015725,Uosolic Acid,,tcm_drug_evidence,,
+compound::CMPD015728,compound,CMPD015728,Myricetin,,tcm_drug_evidence,,
+compound::CMPD016599,compound,CMPD016599,Physostigmine,,tcm_drug_evidence,,
+compound::CMPD019676,compound,CMPD019676,Berberine chloride,,tcm_drug_evidence,,
+compound::CMPD020484,compound,CMPD020484,Dehydroevidiamine,,tcm_drug_evidence,,
+compound::CMPD021553,compound,CMPD021553,Curcumin,,tcm_drug_evidence,,
+compound::CMPD024768,compound,CMPD024768,Kaempferol,,tcm_drug_evidence,,
+compound::CMPD024770,compound,CMPD024770,Quercetin,,tcm_drug_evidence,,
+compound::CMPD024773,compound,CMPD024773,Stigmasterol,,tcm_drug_evidence,,
+compound::CMPD024776,compound,CMPD024776,Sumatrol,,tcm_drug_evidence,,
+compound::CMPD024778,compound,CMPD024778,Daucene,,tcm_drug_evidence,,
+compound::CMPD024806,compound,CMPD024806,(-)-epigallocatechin-3-gallate,,tcm_drug_evidence,,
+compound::CMPD024817,compound,CMPD024817,Acacetin,,tcm_drug_evidence,,
+compound::CMPD024820,compound,CMPD024820,Luteolin,,tcm_drug_evidence,,
+compound::CMPD024838,compound,CMPD024838,Berberine,,tcm_drug_evidence,,
+compound::CMPD024843,compound,CMPD024843,Dihydrosanguinarine,,tcm_drug_evidence,,
+compound::CMPD024851,compound,CMPD024851,(S)-Scoulerine,,tcm_drug_evidence,,
+compound::CMPD024872,compound,CMPD024872,Wogonin,,tcm_drug_evidence,,
+compound::CMPD024876,compound,CMPD024876,Dasycarpamin,,tcm_drug_evidence,,
+compound::CMPD024882,compound,CMPD024882,Ammidin,,tcm_drug_evidence,,
+compound::CMPD024903,compound,CMPD024903,Picropodophyllin,,tcm_drug_evidence,,
+compound::CMPD024921,compound,CMPD024921,Diosmetin,,tcm_drug_evidence,,
+compound::CMPD024922,compound,CMPD024922,Chryseriol,,tcm_drug_evidence,,
+compound::CMPD024925,compound,CMPD024925,Eupatorin,,tcm_drug_evidence,,
+compound::CMPD024927,compound,CMPD024927,Dinatin,,tcm_drug_evidence,,
+compound::CMPD024946,compound,CMPD024946,Baicalein,,tcm_drug_evidence,,
+compound::CMPD024964,compound,CMPD024964,Kaempferide,,tcm_drug_evidence,,
+compound::CMPD024967,compound,CMPD024967,Taxifolin,,tcm_drug_evidence,,
+compound::CMPD024968,compound,CMPD024968,Yamogenin,,tcm_drug_evidence,,
+compound::CMPD024977,compound,CMPD024977,Bergaptin,,tcm_drug_evidence,,
+compound::CMPD024991,compound,CMPD024991,Pisatin,,tcm_drug_evidence,,
+compound::CMPD025012,compound,CMPD025012,Naringenin,,tcm_drug_evidence,,
+compound::CMPD025015,compound,CMPD025015,"4',5-Dihydroxyflavone",,tcm_drug_evidence,,
+compound::CMPD025017,compound,CMPD025017,Catechin,,tcm_drug_evidence,,
+compound::CMPD025023,compound,CMPD025023,Deoxypodophyllotoxin,,tcm_drug_evidence,,
+compound::CMPD025038,compound,CMPD025038,Hesperetin,,tcm_drug_evidence,,
+compound::CMPD025039,compound,CMPD025039,Citromitin,,tcm_drug_evidence,,
+compound::CMPD025051,compound,CMPD025051,ellagic acid,,tcm_drug_evidence,,
+compound::CMPD025067,compound,CMPD025067,Irisolidone,,tcm_drug_evidence,,
+compound::CMPD025089,compound,CMPD025089,"Quercetin tetramethyl(3',4',5,7) ether",,tcm_drug_evidence,,
+compound::CMPD025112,compound,CMPD025112,7-Methoxy-2-methyl isoflavone,,tcm_drug_evidence,,
+compound::CMPD025140,compound,CMPD025140,Dihydrotanshinoneⅰ,,tcm_drug_evidence,,
+compound::CMPD025143,compound,CMPD025143,Isocryptanshinone,,tcm_drug_evidence,,
+compound::CMPD025152,compound,CMPD025152,prolithospermic acid,,tcm_drug_evidence,,
+compound::CMPD025156,compound,CMPD025156,Salvilenone,,tcm_drug_evidence,,
+compound::CMPD025158,compound,CMPD025158,"(6S)-6-hydroxy-1-methyl-6-methylol-8,9-dihydro-7H-naphtho[8,7-g]benzofuran-10,11-quinone",,tcm_drug_evidence,,
+compound::CMPD025160,compound,CMPD025160,Tanshinone iia,,tcm_drug_evidence,,
+compound::CMPD025163,compound,CMPD025163,Indirubin,,tcm_drug_evidence,,
+compound::CMPD025173,compound,CMPD025173,Stepholidine,,tcm_drug_evidence,,
+compound::CMPD025181,compound,CMPD025181,"5-(1-methoxyethyl)-2,6-dihydroxy-1,7-dimethyl-9,10-dihydrophenanthrene",,tcm_drug_evidence,,
+compound::CMPD025188,compound,CMPD025188,Eriodyctiol (flavanone),,tcm_drug_evidence,,
+compound::CMPD025191,compound,CMPD025191,Tetramethoxyluteolin,,tcm_drug_evidence,,
+compound::CMPD025216,compound,CMPD025216,Marmesinin,,tcm_drug_evidence,,
+compound::CMPD025251,compound,CMPD025251,Decursin,,tcm_drug_evidence,,
+compound::CMPD025264,compound,CMPD025264,Deltoin,,tcm_drug_evidence,,
+compound::CMPD025266,compound,CMPD025266,Karanjin,,tcm_drug_evidence,,
+compound::CMPD025269,compound,CMPD025269,Euchrenone,,tcm_drug_evidence,,
+compound::CMPD025287,compound,CMPD025287,Gancaonin A,,tcm_drug_evidence,,
+compound::CMPD025302,compound,CMPD025302,Glabridin,,tcm_drug_evidence,,
+compound::CMPD025303,compound,CMPD025303,Glabranin,,tcm_drug_evidence,,
+compound::CMPD025316,compound,CMPD025316,Licochalcone A,,tcm_drug_evidence,,
+compound::CMPD025332,compound,CMPD025332,Glycyrrhiza flavonol a,,tcm_drug_evidence,,
+compound::CMPD025348,compound,CMPD025348,Galangin,,tcm_drug_evidence,,
+compound::CMPD025353,compound,CMPD025353,8-o-methylreyusi,,tcm_drug_evidence,,
+compound::CMPD025356,compound,CMPD025356,Palmatine,,tcm_drug_evidence,,
+compound::CMPD025384,compound,CMPD025384,Angustidine,,tcm_drug_evidence,,
+compound::CMPD025387,compound,CMPD025387,"methyl (E)-2-[(2S,3Z,12bS)-3-ethylidene-2,4,6,7,12,12b-hexahydro-1H-indolo[3,2-h]quinolizin-2-yl]-3-methoxyprop-2-enoate",,tcm_drug_evidence,,
+compound::CMPD025391,compound,CMPD025391,Rhynchophylline,,tcm_drug_evidence,,
+compound::CMPD025399,compound,CMPD025399,Dihydrocorynantheine,,tcm_drug_evidence,,
+compound::CMPD025402,compound,CMPD025402,Coryincine,,tcm_drug_evidence,,
+compound::CMPD025420,compound,CMPD025420,"(13aS)-2,3,10-trimethoxy-6,8,13,13a-tetrahydro-5H-isoquinolino[2,1-b]isoquinolin-9-ol",,tcm_drug_evidence,,
+compound::CMPD025439,compound,CMPD025439,Futokadsurin C,,tcm_drug_evidence,,
+compound::CMPD025446,compound,CMPD025446,Kadsurenone,,tcm_drug_evidence,,
+compound::CMPD025479,compound,CMPD025479,Ellipticine,,tcm_drug_evidence,,
+compound::CMPD025501,compound,CMPD025501,Rutaecarpine,,tcm_drug_evidence,,
+compound::CMPD025506,compound,CMPD025506,Isocorypalmine,,tcm_drug_evidence,,
+compound::CMPD025509,compound,CMPD025509,(S)-Canadine,,tcm_drug_evidence,,
+compound::CMPD025520,compound,CMPD025520,"5,2'-Dihydroxy-6,7,8-trimethoxyflavone",,tcm_drug_evidence,,
+compound::CMPD025549,compound,CMPD025549,Homoeriodictyol,,tcm_drug_evidence,,
+compound::CMPD025553,compound,CMPD025553,Physovenine,,tcm_drug_evidence,,
+compound::CMPD025566,compound,CMPD025566,"3',4',7-trihydroxyflavanone",,tcm_drug_evidence,,
+compound::CMPD025602,compound,CMPD025602,"3,5-dihydroxy-2-(4-hydroxyphenyl)chromone",,tcm_drug_evidence,,
+compound::CMPD025607,compound,CMPD025607,"5-hydroxy-7-methoxy-2-(3,4,5-trimethoxyphenyl)chromone",,tcm_drug_evidence,,
+compound::CMPD025623,compound,CMPD025623,Psi-Baptigenin,,tcm_drug_evidence,,
+compound::CMPD025671,compound,CMPD025671,Eckol,,tcm_drug_evidence,,
+compound::CMPD025676,compound,CMPD025676,Sophoridine,,tcm_drug_evidence,,
+compound::CMPD025678,compound,CMPD025678,Hyperforin,,tcm_drug_evidence,,
+compound::CMPD025679,compound,CMPD025679,Isoxanthohumol,,tcm_drug_evidence,,
+compound::CMPD025693,compound,CMPD025693,Triptolide,,tcm_drug_evidence,,
+compound::CMPD025754,compound,CMPD025754,Ibogain,,tcm_drug_evidence,,
+compound::CMPD025841,compound,CMPD025841,Guggulsterone,,tcm_drug_evidence,,
+compound::CMPD025848,compound,CMPD025848,Negletein,,tcm_drug_evidence,,
+compound::CMPD025856,compound,CMPD025856,Allopseudococain,,tcm_drug_evidence,,
+compound::CMPD025871,compound,CMPD025871,Lucidumoside D,,tcm_drug_evidence,,
+compound::CMPD025893,compound,CMPD025893,Xyloidone,,tcm_drug_evidence,,
+compound::CMPD025898,compound,CMPD025898,Praeruptorin A,,tcm_drug_evidence,,
+compound::CMPD025911,compound,CMPD025911,Anhydroicaritin,,tcm_drug_evidence,,
+compound::CMPD025921,compound,CMPD025921,16-epi-Isositsirikine,,tcm_drug_evidence,,
+compound::CMPD025924,compound,CMPD025924,Tamarixetin,,tcm_drug_evidence,,
+compound::CMPD025925,compound,CMPD025925,Cirsiliol,,tcm_drug_evidence,,
+compound::CMPD025929,compound,CMPD025929,Artemisinin,,tcm_drug_evidence,,
+compound::CMPD025942,compound,CMPD025942,arachidonic acid,,tcm_drug_evidence,,
+compound::CMPD026024,compound,CMPD026024,Zizyphusine,,tcm_drug_evidence,,
+compound::CMPD026062,compound,CMPD026062,Evodiamine,,tcm_drug_evidence,,
+compound::CMPD026068,compound,CMPD026068,Evodiamide,,tcm_drug_evidence,,
+compound::CMPD026069,compound,CMPD026069,Goshuyuamide I,,tcm_drug_evidence,,
+compound::CMPD026072,compound,CMPD026072,N-(2-Methylaminobenzoyl)Tryptamine,,tcm_drug_evidence,,
+compound::CMPD026077,compound,CMPD026077,Tetrahydropalmatine,,tcm_drug_evidence,,
+compound::CMPD026110,compound,CMPD026110,isodihydrofutoquinol a,,tcm_drug_evidence,,
+compound::CMPD026148,compound,CMPD026148,Corydalmine,,tcm_drug_evidence,,
+compound::CMPD026150,compound,CMPD026150,Luteanin,,tcm_drug_evidence,,
+compound::CMPD026161,compound,CMPD026161,Leonticine,,tcm_drug_evidence,,
+compound::CMPD026190,compound,CMPD026190,Pectolinarigenin,,tcm_drug_evidence,,
+compound::CMPD026195,compound,CMPD026195,Noscapine,,tcm_drug_evidence,,
+compound::CMPD026234,compound,CMPD026234,Fisetin,,tcm_drug_evidence,,
+compound::CMPD026829,compound,CMPD026829,Flavopiridol,,tcm_drug_evidence,,
+compound::CMPD027217,compound,CMPD027217,5-hydroxyflavone,,tcm_drug_evidence,,
+compound::CMPD027440,compound,CMPD027440,3-hydroxy-4-methoxy-acetophenone,,tcm_drug_evidence,,
+compound::CMPD029494,compound,CMPD029494,Alpha-naphthoflavone,,tcm_drug_evidence,,
+compound::CMPD034648,compound,CMPD034648,"Trans-3,5-dihydroxy-5-methoxy-stilbene",,tcm_drug_evidence,,
+compound::CMPD038626,compound,CMPD038626,Beta-naphthoflavone,,tcm_drug_evidence,,
+compound::CMPD047932,compound,CMPD047932,Pongapin,,tcm_drug_evidence,,
+compound::CMPD051525,compound,CMPD051525,7-hydroxy flavone,,tcm_drug_evidence,,
+compound::CMPD051922,compound,CMPD051922,"3,4-benzopyrene",,tcm_drug_evidence,,
+compound::CMPD052974,compound,CMPD052974,Collagen,,tcm_drug_evidence,,
+compound::CMPD053196,compound,CMPD053196,Rocaglamide,,tcm_drug_evidence,,
+compound::CMPD057237,compound,CMPD057237,(-)-huperzine a,,tcm_drug_evidence,,
+compound::CMPD063162,compound,CMPD063162,Alpha-lipoic acid,,tcm_drug_evidence,,
+depmap_context::COAD,depmap_context,COAD,COAD DepMap context,COAD,depmap,,
+depmap_context::LIHC,depmap_context,LIHC,LIHC DepMap context,LIHC,depmap,,
+depmap_context::STAD,depmap_context,STAD,STAD DepMap context,STAD,depmap,,
+gene::ACHE,gene,ACHE,ACHE,,target_gene,0.3081531768997235,NB4_low_non_broad_signal
+gene::ADRA1B,gene,ADRA1B,ADRA1B,,target_gene,,
+gene::ADRA1D,gene,ADRA1D,ADRA1D,,target_gene,,
+gene::AHR,gene,AHR,AHR,,target_gene,0.3672345895880596,NB4_low_non_broad_signal
+gene::AKR1B1,gene,AKR1B1,AKR1B1,,target_gene,,
+gene::ALOX12,gene,ALOX12,ALOX12,,target_gene,,
+gene::ALOX5,gene,ALOX5,ALOX5,,target_gene,0.2441056252029977,NB4_low_non_broad_signal
+gene::APP,gene,APP,APP,,target_gene,0.3297307466757295,NB4_low_non_broad_signal
+gene::AR,gene,AR,AR,,target_gene,,
+gene::ATF4,gene,ATF4,ATF4,,depmap,,
+gene::BACE1,gene,BACE1,BACE1,,target_gene,,
+gene::CCNA2,gene,CCNA2,CCNA2,,target_gene,,
+gene::CDK1,gene,CDK1,CDK1,,target_gene,,
+gene::CDK2,gene,CDK2,CDK2,,target_gene,,
+gene::CEBPB,gene,CEBPB,CEBPB,,non_broad_depmap_extension,0.4212983890777124,NB3_contextual_non_broad_signal
+gene::CEBPG,gene,CEBPG,CEBPG,,non_broad_depmap_extension,0.3345866562336417,NB4_low_non_broad_signal
+gene::CREB1,gene,CREB1,CREB1,,non_broad_depmap_extension,0.3569867755523217,NB4_low_non_broad_signal
+gene::CTNNB1,gene,CTNNB1,CTNNB1,,non_broad_depmap_extension,0.5836219894446872,NB2_moderate_sensitivity_reprioritized
+gene::CYP19A1,gene,CYP19A1,CYP19A1,,target_gene,,
+gene::CYP1A1,gene,CYP1A1,CYP1A1,,target_gene,0.2653672584684574,NB4_low_non_broad_signal
+gene::CYP1A2,gene,CYP1A2,CYP1A2,,target_gene,,
+gene::CYP1B1,gene,CYP1B1,CYP1B1,,target_gene,0.2830256003562132,NB4_low_non_broad_signal
+gene::CYP2B6,gene,CYP2B6,CYP2B6,,target_gene,,
+gene::DPP4,gene,DPP4,DPP4,,target_gene,,
+gene::DRD1,gene,DRD1,DRD1,,target_gene,,
+gene::E2F1,gene,E2F1,E2F1,,non_broad_depmap_extension,0.3738377539814042,NB4_low_non_broad_signal
+gene::EHF,gene,EHF,EHF,,non_broad_depmap_extension,0.2418121205213471,NB4_low_non_broad_signal
+gene::EP300,gene,EP300,EP300,,non_broad_depmap_extension,0.4949625044619186,NB3_contextual_non_broad_signal
+gene::EPAS1,gene,EPAS1,EPAS1,,depmap,,
+gene::ESR1,gene,ESR1,ESR1,,depmap,,
+gene::ETS1,gene,ETS1,ETS1,,non_broad_depmap_extension,0.3518867897840102,NB4_low_non_broad_signal
+gene::ETV4,gene,ETV4,ETV4,,non_broad_depmap_extension,0.3590006364989483,NB4_low_non_broad_signal
+gene::EWSR1,gene,EWSR1,EWSR1,,depmap,,
+gene::FOS,gene,FOS,FOS,,non_broad_depmap_extension,0.3754235228050643,NB4_low_non_broad_signal
+gene::FOXM1,gene,FOXM1,FOXM1,,non_broad_depmap_extension,0.4385498055880403,NB3_contextual_non_broad_signal
+gene::FOXO1,gene,FOXO1,FOXO1,,non_broad_depmap_extension,0.2675639730675537,NB4_low_non_broad_signal
+gene::GSK3B,gene,GSK3B,GSK3B,,target_gene,,
+gene::GSTP1,gene,GSTP1,GSTP1,,target_gene,,
+gene::GTF3A,gene,GTF3A,GTF3A,,depmap,,
+gene::HDAC1,gene,HDAC1,HDAC1,,non_broad_depmap_extension,0.2750606906089665,NB4_low_non_broad_signal
+gene::HIF1A,gene,HIF1A,HIF1A,,non_broad_depmap_extension,0.3590461002023735,NB4_low_non_broad_signal
+gene::HOPX,gene,HOPX,HOPX,,depmap,,
+gene::HOXD3,gene,HOXD3,HOXD3,,depmap,,
+gene::HR,gene,HR,HR,,non_broad_depmap_extension,0.2886235345923158,NB4_low_non_broad_signal
+gene::HSF1,gene,HSF1,HSF1,,non_broad_depmap_extension,0.6100540217629502,NB2_moderate_sensitivity_reprioritized
+gene::HSP90AB1,gene,HSP90AB1,HSP90AB1,,target_gene,0.4527907781806805,NB3_contextual_non_broad_signal
+gene::HTR2A,gene,HTR2A,HTR2A,,target_gene,,
+gene::JUN,gene,JUN,JUN,,non_broad_depmap_extension,0.3712384741548018,NB4_low_non_broad_signal
+gene::KLF5,gene,KLF5,KLF5,,non_broad_depmap_extension,0.3911533119535472,NB4_low_non_broad_signal
+gene::MAPK14,gene,MAPK14,MAPK14,,target_gene,,
+gene::MMP1,gene,MMP1,MMP1,,target_gene,0.2382780328703017,NB4_low_non_broad_signal
+gene::MMP9,gene,MMP9,MMP9,,target_gene,,
+gene::MYB,gene,MYB,MYB,,non_broad_depmap_extension,0.6215021653461236,NB2_moderate_sensitivity_reprioritized
+gene::MYC,gene,MYC,MYC,,depmap,,
+gene::NFKB1,gene,NFKB1,NFKB1,,non_broad_depmap_extension,0.3208515882116174,NB4_low_non_broad_signal
+gene::NFKB2,gene,NFKB2,NFKB2,,non_broad_depmap_extension,0.4033129028923685,NB4_low_non_broad_signal
+gene::NFYA,gene,NFYA,NFYA,,non_broad_depmap_extension,0.4686354325406305,NB3_contextual_non_broad_signal
+gene::NR1H3,gene,NR1H3,NR1H3,,non_broad_depmap_extension,0.3421645726156304,NB4_low_non_broad_signal
+gene::NR1I2,gene,NR1I2,NR1I2,,target_gene,,
+gene::NR1I3,gene,NR1I3,NR1I3,,non_broad_depmap_extension,0.2332920239245824,NB4_low_non_broad_signal
+gene::NR3C1,gene,NR3C1,NR3C1,,non_broad_depmap_extension,0.3405031076231669,NB4_low_non_broad_signal
+gene::PGR,gene,PGR,PGR,,target_gene,,
+gene::PLAU,gene,PLAU,PLAU,,target_gene,0.3101251568401116,NB4_low_non_broad_signal
+gene::PPARG,gene,PPARG,PPARG,,target_gene,,
+gene::PTGS2,gene,PTGS2,PTGS2,,target_gene,,
+gene::RBPJ,gene,RBPJ,RBPJ,,non_broad_depmap_extension,0.3699976783687243,NB4_low_non_broad_signal
+gene::REL,gene,REL,REL,,non_broad_depmap_extension,0.3091523528571692,NB4_low_non_broad_signal
+gene::RELA,gene,RELA,RELA,,target_gene,0.5133508407556194,NB2_moderate_sensitivity_reprioritized
+gene::RORA,gene,RORA,RORA,,depmap,,
+gene::RUNX2,gene,RUNX2,RUNX2,,non_broad_depmap_extension,0.3380999566766445,NB4_low_non_broad_signal
+gene::SLC6A2,gene,SLC6A2,SLC6A2,,target_gene,,
+gene::SLC6A4,gene,SLC6A4,SLC6A4,,target_gene,0.187810732859086,NB4_low_non_broad_signal
+gene::SMAD2,gene,SMAD2,SMAD2,,non_broad_depmap_extension,0.3597041780838366,NB4_low_non_broad_signal
+gene::SP1,gene,SP1,SP1,,non_broad_depmap_extension,0.2983310548570927,NB4_low_non_broad_signal
+gene::TBP,gene,TBP,TBP,,depmap,,
+gene::TFAP2A,gene,TFAP2A,TFAP2A,,non_broad_depmap_extension,0.2384056094383778,NB4_low_non_broad_signal
+gene::TYR,gene,TYR,TYR,,target_gene,,
+gene::XDH,gene,XDH,XDH,,target_gene,,
+lincs_signature::BRD-A37052580,lincs_signature,BRD-A37052580,physostigmine,,lincs_cmap,0.5125703114210567,LC3_weak_or_neutral
+lincs_signature::BRD-A43940795,lincs_signature,BRD-A43940795,tetrahydropalmatine,,lincs_cmap,0.5161164863911298,LC3_weak_or_neutral
+lincs_signature::BRD-A59808129,lincs_signature,BRD-A59808129,guggulsterone,,lincs_cmap,0.4843441145609286,LC4_opposite_direction
+lincs_signature::BRD-A80775386,lincs_signature,BRD-A80775386,hyperforin,,lincs_cmap,0.5364629543568143,LC3_weak_or_neutral
+lincs_signature::BRD-A86109770,lincs_signature,BRD-A86109770,guggulsterone,,lincs_cmap,0.5252735562090567,LC3_weak_or_neutral
+lincs_signature::BRD-A94669766,lincs_signature,BRD-A94669766,naringenin,,lincs_cmap,0.4908888589214817,LC4_opposite_direction
+lincs_signature::BRD-K05236810,lincs_signature,BRD-K05236810,luteolin,,lincs_cmap,0.4807575235215202,LC4_opposite_direction
+lincs_signature::BRD-K12807006,lincs_signature,BRD-K12807006,kaempferol,,lincs_cmap,0.5115972721605953,LC3_weak_or_neutral
+lincs_signature::BRD-K17894950,lincs_signature,BRD-K17894950,indirubin,,lincs_cmap,0.480917460891791,LC4_opposite_direction
+lincs_signature::BRD-K39484304,lincs_signature,BRD-K39484304,triptolide,,lincs_cmap,0.6529894566718675,LC2_moderate_reversal
+lincs_signature::BRD-K45770447,lincs_signature,BRD-K45770447,artemisinin,,lincs_cmap,0.5142505902991095,LC3_weak_or_neutral
+lincs_signature::BRD-K85985071,lincs_signature,BRD-K85985071,ellipticine,,lincs_cmap,0.6431022911995639,LC2_moderate_reversal
+lincs_signature::BRD-K97399794,lincs_signature,BRD-K97399794,quercetin,,lincs_cmap,0.4989258740860073,LC4_opposite_direction
+ppi_msi_module::COAD::candidate_module,ppi_msi_module,COAD::candidate_module,COAD PPI/MSI module,COAD,ppi_msi,,
+ppi_msi_module::LIHC::candidate_module,ppi_msi_module,LIHC::candidate_module,LIHC PPI/MSI module,LIHC,ppi_msi,,
+ppi_msi_module::STAD::candidate_module,ppi_msi_module,STAD::candidate_module,STAD PPI/MSI module,STAD,ppi_msi,,
+spatial_niche::COAD::Fibroblast_CAF,spatial_niche,COAD::Fibroblast_CAF,COAD Fibroblast_CAF,COAD,spatial_transcriptomics,,
+spatial_niche::COAD::Myeloid,spatial_niche,COAD::Myeloid,COAD Myeloid,COAD,spatial_transcriptomics,,
+spatial_niche::COAD::Tumor_Lineage,spatial_niche,COAD::Tumor_Lineage,COAD Tumor_Lineage,COAD,spatial_transcriptomics,,
+spatial_niche::COAD::immune,spatial_niche,COAD::immune,COAD immune,COAD,spatial_transcriptomics,,
+spatial_niche::COAD::stromal,spatial_niche,COAD::stromal,COAD stromal,COAD,spatial_transcriptomics,,
+spatial_niche::COAD::vascular_stromal,spatial_niche,COAD::vascular_stromal,COAD vascular_stromal,COAD,spatial_transcriptomics,,
+spatial_niche::LIHC::Fibroblast_CAF,spatial_niche,LIHC::Fibroblast_CAF,LIHC Fibroblast_CAF,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::Myeloid,spatial_niche,LIHC::Myeloid,LIHC Myeloid,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::Plasma_cell,spatial_niche,LIHC::Plasma_cell,LIHC Plasma_cell,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::T_NK_ILC,spatial_niche,LIHC::T_NK_ILC,LIHC T_NK_ILC,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::Tumor_Lineage,spatial_niche,LIHC::Tumor_Lineage,LIHC Tumor_Lineage,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::immune,spatial_niche,LIHC::immune,LIHC immune,LIHC,spatial_transcriptomics,,
+spatial_niche::LIHC::tumor_intrinsic,spatial_niche,LIHC::tumor_intrinsic,LIHC tumor_intrinsic,LIHC,spatial_transcriptomics,,
+spatial_niche::STAD::Fibroblast_CAF,spatial_niche,STAD::Fibroblast_CAF,STAD Fibroblast_CAF,STAD,spatial_transcriptomics,,
+spatial_niche::STAD::immune,spatial_niche,STAD::immune,STAD immune,STAD,spatial_transcriptomics,,
+spatial_niche::STAD::stromal,spatial_niche,STAD::stromal,STAD stromal,STAD,spatial_transcriptomics,,
+spatial_sample::COAD_GSM8594567_P1CRC,spatial_sample,COAD_GSM8594567_P1CRC,P1CRC,COAD,spatial_transcriptomics,,
+spatial_sample::COAD_GSM8594568_P2CRC,spatial_sample,COAD_GSM8594568_P2CRC,P2CRC,COAD,spatial_transcriptomics,,
+spatial_sample::COAD_GSM8594569_P5CRC,spatial_sample,COAD_GSM8594569_P5CRC,P5CRC,COAD,spatial_transcriptomics,,
+spatial_sample::LIHC_P5T_P5T,spatial_sample,LIHC_P5T_P5T,P5T,LIHC,spatial_transcriptomics,,
+spatial_sample::LIHC_P7T_P7T,spatial_sample,LIHC_P7T_P7T,P7T,LIHC,spatial_transcriptomics,,
+spatial_sample::LIHC_P8T_P8T,spatial_sample,LIHC_P8T_P8T,P8T,LIHC,spatial_transcriptomics,,
+spatial_sample::STAD_GSM7990473_GC1,spatial_sample,STAD_GSM7990473_GC1,GC1,STAD,spatial_transcriptomics,,
+spatial_sample::STAD_GSM7990474_21_00731_LI_SING,spatial_sample,STAD_GSM7990474_21_00731_LI_SING,21_00731_LI_SING,STAD,spatial_transcriptomics,,
+spatial_sample::STAD_GSM7990475_21_00732_LI_SING,spatial_sample,STAD_GSM7990475_21_00732_LI_SING,21_00732_LI_SING,STAD,spatial_transcriptomics,,
+tf_regulon::AHR,tf_regulon,AHR,AHR,,single_cell_grn,,
+tf_regulon::AP1,tf_regulon,AP1,AP1,,single_cell_grn,,
+tf_regulon::AR,tf_regulon,AR,AR,,single_cell_grn,,
+tf_regulon::ARID3A,tf_regulon,ARID3A,ARID3A,,single_cell_grn,,
+tf_regulon::ATF4,tf_regulon,ATF4,ATF4,,single_cell_grn,,
+tf_regulon::CDX2,tf_regulon,CDX2,CDX2,,single_cell_grn,,
+tf_regulon::CEBPA,tf_regulon,CEBPA,CEBPA,,single_cell_grn,,
+tf_regulon::CEBPB,tf_regulon,CEBPB,CEBPB,,single_cell_grn,,
+tf_regulon::CEBPD,tf_regulon,CEBPD,CEBPD,,single_cell_grn,,
+tf_regulon::CEBPG,tf_regulon,CEBPG,CEBPG,,single_cell_grn,,
+tf_regulon::CREB1,tf_regulon,CREB1,CREB1,,single_cell_grn,,
+tf_regulon::CTNNB1,tf_regulon,CTNNB1,CTNNB1,,single_cell_grn,,
+tf_regulon::DDIT3,tf_regulon,DDIT3,DDIT3,,single_cell_grn,,
+tf_regulon::E2F1,tf_regulon,E2F1,E2F1,,single_cell_grn,,
+tf_regulon::E2F4,tf_regulon,E2F4,E2F4,,single_cell_grn,,
+tf_regulon::EGR1,tf_regulon,EGR1,EGR1,,single_cell_grn,,
+tf_regulon::EHF,tf_regulon,EHF,EHF,,single_cell_grn,,
+tf_regulon::EP300,tf_regulon,EP300,EP300,,single_cell_grn,,
+tf_regulon::EPAS1,tf_regulon,EPAS1,EPAS1,,single_cell_grn,,
+tf_regulon::ESR1,tf_regulon,ESR1,ESR1,,single_cell_grn,,
+tf_regulon::ETS1,tf_regulon,ETS1,ETS1,,single_cell_grn,,
+tf_regulon::ETV4,tf_regulon,ETV4,ETV4,,single_cell_grn,,
+tf_regulon::ETV7,tf_regulon,ETV7,ETV7,,single_cell_grn,,
+tf_regulon::EWSR1,tf_regulon,EWSR1,EWSR1,,single_cell_grn,,
+tf_regulon::FOS,tf_regulon,FOS,FOS,,single_cell_grn,,
+tf_regulon::FOXM1,tf_regulon,FOXM1,FOXM1,,single_cell_grn,,
+tf_regulon::FOXO1,tf_regulon,FOXO1,FOXO1,,single_cell_grn,,
+tf_regulon::GTF3A,tf_regulon,GTF3A,GTF3A,,single_cell_grn,,
+tf_regulon::HDAC1,tf_regulon,HDAC1,HDAC1,,single_cell_grn,,
+tf_regulon::HIF1A,tf_regulon,HIF1A,HIF1A,,single_cell_grn,,
+tf_regulon::HNF1A,tf_regulon,HNF1A,HNF1A,,single_cell_grn,,
+tf_regulon::HOPX,tf_regulon,HOPX,HOPX,,single_cell_grn,,
+tf_regulon::HOXD3,tf_regulon,HOXD3,HOXD3,,single_cell_grn,,
+tf_regulon::HR,tf_regulon,HR,HR,,single_cell_grn,,
+tf_regulon::HSF1,tf_regulon,HSF1,HSF1,,single_cell_grn,,
+tf_regulon::JUN,tf_regulon,JUN,JUN,,single_cell_grn,,
+tf_regulon::JUND,tf_regulon,JUND,JUND,,single_cell_grn,,
+tf_regulon::KLF5,tf_regulon,KLF5,KLF5,,single_cell_grn,,
+tf_regulon::MITF,tf_regulon,MITF,MITF,,single_cell_grn,,
+tf_regulon::MYB,tf_regulon,MYB,MYB,,single_cell_grn,,
+tf_regulon::MYBL2,tf_regulon,MYBL2,MYBL2,,single_cell_grn,,
+tf_regulon::MYC,tf_regulon,MYC,MYC,,single_cell_grn,,
+tf_regulon::NFE2L2,tf_regulon,NFE2L2,NFE2L2,,single_cell_grn,,
+tf_regulon::NFKB,tf_regulon,NFKB,NFKB,,single_cell_grn,,
+tf_regulon::NFKB1,tf_regulon,NFKB1,NFKB1,,single_cell_grn,,
+tf_regulon::NFKB2,tf_regulon,NFKB2,NFKB2,,single_cell_grn,,
+tf_regulon::NFYA,tf_regulon,NFYA,NFYA,,single_cell_grn,,
+tf_regulon::NR1H3,tf_regulon,NR1H3,NR1H3,,single_cell_grn,,
+tf_regulon::NR1I3,tf_regulon,NR1I3,NR1I3,,single_cell_grn,,
+tf_regulon::NR3C1,tf_regulon,NR3C1,NR3C1,,single_cell_grn,,
+tf_regulon::PGR,tf_regulon,PGR,PGR,,single_cell_grn,,
+tf_regulon::PITX2,tf_regulon,PITX2,PITX2,,single_cell_grn,,
+tf_regulon::RBPJ,tf_regulon,RBPJ,RBPJ,,single_cell_grn,,
+tf_regulon::REL,tf_regulon,REL,REL,,single_cell_grn,,
+tf_regulon::RELA,tf_regulon,RELA,RELA,,single_cell_grn,,
+tf_regulon::RORA,tf_regulon,RORA,RORA,,single_cell_grn,,
+tf_regulon::RUNX2,tf_regulon,RUNX2,RUNX2,,single_cell_grn,,
+tf_regulon::SMAD2,tf_regulon,SMAD2,SMAD2,,single_cell_grn,,
+tf_regulon::SMAD7,tf_regulon,SMAD7,SMAD7,,single_cell_grn,,
+tf_regulon::SP1,tf_regulon,SP1,SP1,,single_cell_grn,,
+tf_regulon::SP3,tf_regulon,SP3,SP3,,single_cell_grn,,
+tf_regulon::SSRP1,tf_regulon,SSRP1,SSRP1,,single_cell_grn,,
+tf_regulon::STAT3,tf_regulon,STAT3,STAT3,,single_cell_grn,,
+tf_regulon::TBP,tf_regulon,TBP,TBP,,single_cell_grn,,
+tf_regulon::TCF7L2,tf_regulon,TCF7L2,TCF7L2,,single_cell_grn,,
+tf_regulon::TFAP2A,tf_regulon,TFAP2A,TFAP2A,,single_cell_grn,,
+tf_regulon::TFDP1,tf_regulon,TFDP1,TFDP1,,single_cell_grn,,
+tf_regulon::TP53,tf_regulon,TP53,TP53,,single_cell_grn,,

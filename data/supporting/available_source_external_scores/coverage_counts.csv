@@ -1,0 +1,13 @@
+cancer,n_evaluable_databases,n_axes
+COAD,1,2
+COAD,2,21
+COAD,3,161
+COAD,4,16
+LIHC,1,4
+LIHC,2,67
+LIHC,3,94
+LIHC,4,35
+STAD,1,17
+STAD,2,31
+STAD,3,145
+STAD,4,7

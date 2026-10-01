@@ -1,0 +1,4 @@
+﻿frozen_axis_id,cancer,compound_representative_name,target_gene_symbol,tf_gene_symbol,dominant_spatial_celltype,baseline_score,baseline_rank,median_rank,rank_p05,rank_p95,worst_rank,top20_frequency,top50_frequency
+COAD_AXIS_034,COAD,Quercetin,CDK1,MYB,Myeloid,0.8391144570908674,1.0,1.0,1.0,1.0,2.0,1.0,1.0
+LIHC_AXIS_092,LIHC,"4',5-Dihydroxyflavone",AR,HDAC1,T_NK_ILC,0.7818611871908144,1.0,1.0,1.0,1.0,4.0,1.0,1.0
+STAD_AXIS_021,STAD,Eriodyctiol (flavanone),HSP90AB1,HOPX,Fibroblast_CAF,0.8192460420844396,4.0,4.0,2.0,12.0,18.0,1.0,1.0

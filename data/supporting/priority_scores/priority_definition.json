@@ -1,0 +1,18 @@
+{
+  "weights": {
+    "main_axis_freeze_score": 0.2,
+    "integrated_spatial_recurrence_score": 0.15,
+    "same_cancer_clinical_prognosis_score": 0.1,
+    "manual_directness_score": 0.2,
+    "available_source_external_score": 0.2,
+    "external_dry_validation_score_hpa_ot_cptac": 0.1,
+    "potency_score": 0.05
+  },
+  "model_component": "main_axis_freeze_score; unchanged",
+  "external_component": "Mean of evaluable HPA, GDSC, PRISM and CTRP scores",
+  "scope": "Post-lock priority of the retained 24 candidates; not model retraining",
+  "n_retained_axes": 24,
+  "n_selected_axes": 3,
+  "experimental_measurements_used_as_score_inputs": false,
+  "original_training_inputs_changed": false
+}

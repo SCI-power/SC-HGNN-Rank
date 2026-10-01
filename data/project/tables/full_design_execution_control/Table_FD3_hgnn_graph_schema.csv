@@ -1,0 +1,29 @@
+﻿schema_type,entity_or_relation,definition,features_or_weights,source_layer,status_or_note
+node,compound,TCM compound / natural product entity,"compound_master_id, InChIKey/PubChem/SMILES/name, source_count, drug evidence scores",tcm_integrated + BindingDB/PubMed + ChEMBL/STITCH/HIT top-candidate backtrace,Frozen before training
+node,target_gene,HGNC-normalized drug/disease target gene,"HGNC symbol, UniProt/Entrez/Ensembl, expression, survival, dependency, genetic support",target_master + TCGA/GEO + DepMap + GWAS/eQTL,Frozen before training
+node,tf_regulon,TF or regulon unit,"TF symbol, regulon target, source database, activity delta, celltype specificity",CollecTRI/DoRothEA/TRRUST/ChEA/pySCENIC if added,Current CollecTRI layer exists; pySCENIC optional
+node,cell_state,Single-cell major/minor cell state or metacell,"celltype taxonomy, cancer, marker score, pseudobulk expression, regulon activity",scrna_full + marker annotation + taxonomy,Use lenient/strict QC flag once frozen
+node,spatial_region,Spatial sample hotspot/niche region,"sample_id, celltype abundance, Tangram module score, Moran/hotspot score once computed",RCTD/SPOTlight/Tangram outputs,Will be refined by spatial statistic layer
+node,pathway_function,GO/Reactome/Hallmark/MSI functional module,"pathway ID, gene set, hierarchy, disease module score",Reactome/GO/MSigDB/PPI-MSI,PPI/MSI must be added
+node,perturbation_signature,LINCS/CMap signature/query result,"pert_id, cell_id, dose, time, tau/connectivity, reversal score",CLUE/CMap/GEO Level 5,Missing real scores
+node,dependency_context,Cancer lineage cell line dependency context,"DepMap model, lineage, disease, dependency score",DepMap,Missing
+node,genetic_evidence,GWAS/QTL/Open Targets evidence entity,"trait, study, variant/gene score, tissue, coloc/L2G evidence",GWAS Catalog/Open Targets/eQTL/GTEx,Missing API cache
+node,clinical_endpoint,Patient survival or response endpoint,"OS/PFS/RFS, cohort, HR, p/FDR, risk direction",TCGA/GEO,Available for current candidate axes
+edge,compound__acts_on__target_gene,Compound-target relation,"edge_score_v1, BindingDB affinity, PubMed support, ChEMBL/STITCH/HIT support",tcm_edge_score_v1 + external drug backtrace,Main pharmacology edge
+edge,target_gene__regulated_by__tf_regulon,GRN / TF-target relation,"regulon source, confidence, activity delta, direction",CollecTRI/DoRothEA/TRRUST/ChEA,Current linkage layer exists
+edge,target_gene__ppi__target_gene,Protein interaction / MSI graph,"STRING/BioGRID/OmniPath score, degree, confidence",PPI/MSI layer,Missing; required before HGNN
+edge,target_gene__in__pathway_function,Pathway membership,Reactome/GO/MSigDB membership and hierarchy,Pathway gene sets,Partial; enhance
+edge,target_gene__expressed_in__cell_state,Cell-type specificity,"expression z, DEG/marker support, regulon activity",scRNA,Available; QC freeze needed
+edge,cell_state__maps_to__spatial_region,Spatial deconvolution mapping,"RCTD weight, SPOTlight weight, agreement class",RCTD/SPOTlight,Available
+edge,target_gene__projects_to__spatial_region,Tangram gene projection,"spot-level projected score, hotspot score, recurrence",Tangram candidate/full library projection,Available
+edge,compound__reverses__perturbation_signature,Drug reversal evidence,"CLUE tau/connectivity, disease signature reversal score, cell-line match",LINCS/CMap,Missing real scores
+edge,target_gene__essential_in__dependency_context,Functional vulnerability evidence,"Chronos/CERES/gene dependency score, lineage specificity",DepMap,Missing
+edge,target_gene__genetically_supported_by__genetic_evidence,Genetic causal/regulatory support,"GWAS association, L2G, eQTL/pQTL, tissue relevance",Open Targets/GWAS/eQTL/GTEx,Missing
+edge,axis__associated_with__clinical_endpoint,Clinical prognosis support,"same-cancer gene/chain Cox, HR, CI, p/FDR",TCGA/GEO candidate validation,Available
+edge,cell_state__communicates_with__cell_state,Spatial communication context,"LR pair score, sender/receiver, colocalization",OmniPath/CellChat/CellPhoneDB,Optional P2
+label,axis_positive_label,HGNN supervised target for axis ranking/classification,"CV1=strong positive, CV2=medium positive, CV3/Top200 reserve=weak/unlabeled, degree-matched random=negative",candidate convergence + synthetic negatives to be built,Build after external validation tables
+label,axis_rank_label,Continuous target score,candidate_convergence_score; fallback cancer_specific_discovery_score,frozen axis universe,Created now
+loss,spatial_consistency_regularizer,Force high-scoring axes to retain spatial recurrence,Tangram recurrence + RCTD/SPOTlight agreement penalty,spatial outputs,Available
+loss,causal_context_penalty,Separate invariant and cancer-specific effects,environment=cancer; penalize unstable edges only when axis is declared invariant,frozen axis universe + cancer labels,Design choice
+baseline,weighted_score_baseline,Current non-GNN scoring baseline,Full library score and convergence score,existing outputs,Must compare
+baseline,RGCN_GAT_HGT_baselines,Graph neural network baselines,same frozen graph without causal/spatial losses,HGNN graph input,Run after graph build

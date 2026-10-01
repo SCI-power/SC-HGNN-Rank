@@ -1,0 +1,392 @@
+[
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F1",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F1__20260807/SC-HGNN-Rank-full_LCMPD_F1_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F1",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F1__20260808/SC-HGNN-Rank-full_LCMPD_F1_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F1",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F1__20260809/SC-HGNN-Rank-full_LCMPD_F1_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F1",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F1__20260810/SC-HGNN-Rank-full_LCMPD_F1_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F1",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F1__20260811/SC-HGNN-Rank-full_LCMPD_F1_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F2",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F2__20260807/SC-HGNN-Rank-full_LCMPD_F2_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F2",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F2__20260808/SC-HGNN-Rank-full_LCMPD_F2_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F2",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F2__20260809/SC-HGNN-Rank-full_LCMPD_F2_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F2",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F2__20260810/SC-HGNN-Rank-full_LCMPD_F2_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F2",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F2__20260811/SC-HGNN-Rank-full_LCMPD_F2_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F3",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F3__20260807/SC-HGNN-Rank-full_LCMPD_F3_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F3",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F3__20260808/SC-HGNN-Rank-full_LCMPD_F3_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F3",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F3__20260809/SC-HGNN-Rank-full_LCMPD_F3_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F3",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F3__20260810/SC-HGNN-Rank-full_LCMPD_F3_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F3",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F3__20260811/SC-HGNN-Rank-full_LCMPD_F3_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F4",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F4__20260807/SC-HGNN-Rank-full_LCMPD_F4_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F4",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F4__20260808/SC-HGNN-Rank-full_LCMPD_F4_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F4",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F4__20260809/SC-HGNN-Rank-full_LCMPD_F4_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F4",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F4__20260810/SC-HGNN-Rank-full_LCMPD_F4_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F4",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F4__20260811/SC-HGNN-Rank-full_LCMPD_F4_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F5",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F5__20260807/SC-HGNN-Rank-full_LCMPD_F5_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F5",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F5__20260808/SC-HGNN-Rank-full_LCMPD_F5_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F5",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F5__20260809/SC-HGNN-Rank-full_LCMPD_F5_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F5",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F5__20260810/SC-HGNN-Rank-full_LCMPD_F5_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LCMPD_F5",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LCMPD_F5__20260811/SC-HGNN-Rank-full_LCMPD_F5_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_COAD",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_COAD__20260807/SC-HGNN-Rank-full_LOC_COAD_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_COAD",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_COAD__20260808/SC-HGNN-Rank-full_LOC_COAD_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_COAD",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_COAD__20260809/SC-HGNN-Rank-full_LOC_COAD_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_COAD",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_COAD__20260810/SC-HGNN-Rank-full_LOC_COAD_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_COAD",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_COAD__20260811/SC-HGNN-Rank-full_LOC_COAD_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_LIHC",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_LIHC__20260807/SC-HGNN-Rank-full_LOC_LIHC_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_LIHC",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_LIHC__20260808/SC-HGNN-Rank-full_LOC_LIHC_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_LIHC",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_LIHC__20260809/SC-HGNN-Rank-full_LOC_LIHC_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_LIHC",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_LIHC__20260810/SC-HGNN-Rank-full_LOC_LIHC_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_LIHC",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_LIHC__20260811/SC-HGNN-Rank-full_LOC_LIHC_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_STAD",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_STAD__20260807/SC-HGNN-Rank-full_LOC_STAD_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_STAD",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_STAD__20260808/SC-HGNN-Rank-full_LOC_STAD_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_STAD",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_STAD__20260809/SC-HGNN-Rank-full_LOC_STAD_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_STAD",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_STAD__20260810/SC-HGNN-Rank-full_LOC_STAD_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LOC_STAD",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LOC_STAD__20260811/SC-HGNN-Rank-full_LOC_STAD_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F1",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F1__20260807/SC-HGNN-Rank-full_LTGT_F1_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F1",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F1__20260808/SC-HGNN-Rank-full_LTGT_F1_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F1",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F1__20260809/SC-HGNN-Rank-full_LTGT_F1_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F1",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F1__20260810/SC-HGNN-Rank-full_LTGT_F1_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F1",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F1__20260811/SC-HGNN-Rank-full_LTGT_F1_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F2",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F2__20260807/SC-HGNN-Rank-full_LTGT_F2_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F2",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F2__20260808/SC-HGNN-Rank-full_LTGT_F2_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F2",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F2__20260809/SC-HGNN-Rank-full_LTGT_F2_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F2",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F2__20260810/SC-HGNN-Rank-full_LTGT_F2_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F2",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F2__20260811/SC-HGNN-Rank-full_LTGT_F2_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F3",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F3__20260807/SC-HGNN-Rank-full_LTGT_F3_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F3",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F3__20260808/SC-HGNN-Rank-full_LTGT_F3_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F3",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F3__20260809/SC-HGNN-Rank-full_LTGT_F3_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F3",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F3__20260810/SC-HGNN-Rank-full_LTGT_F3_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F3",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F3__20260811/SC-HGNN-Rank-full_LTGT_F3_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F4",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F4__20260807/SC-HGNN-Rank-full_LTGT_F4_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F4",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F4__20260808/SC-HGNN-Rank-full_LTGT_F4_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F4",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F4__20260809/SC-HGNN-Rank-full_LTGT_F4_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F4",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F4__20260810/SC-HGNN-Rank-full_LTGT_F4_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F4",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F4__20260811/SC-HGNN-Rank-full_LTGT_F4_seed20260811.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F5",
+    "seed": 20260807,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F5__20260807/SC-HGNN-Rank-full_LTGT_F5_seed20260807.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F5",
+    "seed": 20260808,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F5__20260808/SC-HGNN-Rank-full_LTGT_F5_seed20260808.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F5",
+    "seed": 20260809,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F5__20260809/SC-HGNN-Rank-full_LTGT_F5_seed20260809.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F5",
+    "seed": 20260810,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F5__20260810/SC-HGNN-Rank-full_LTGT_F5_seed20260810.pt"
+  },
+  {
+    "variant": "SC-HGNN-Rank-full",
+    "fold": "LTGT_F5",
+    "seed": 20260811,
+    "path": "reference_results/model/main/fits/baseline__SC-HGNN-Rank-full__LTGT_F5__20260811/SC-HGNN-Rank-full_LTGT_F5_seed20260811.pt"
+  }
+]

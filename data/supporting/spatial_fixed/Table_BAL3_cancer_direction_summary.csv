@@ -1,0 +1,4 @@
+﻿cancer,n_patients,n_sections,n_independent_external_patients,median_target_context_spearman,iqr_low,iqr_high,majority_direction,n_positive,n_negative,direction_consistency_fraction,two_sided_null_pass_fraction,wilcoxon_two_sided_p
+COAD,10,10,0,-0.17572989617932022,-0.27445071705564694,-0.09569648611695852,negative,0,10,1.0,0.0,0.001953125
+LIHC,10,10,7,-0.052049969611454285,-0.06721797280092855,-0.011085654417114798,negative,2,8,0.8,0.0,0.01953125
+STAD,10,10,1,0.07254085705007106,-0.020786798764671828,0.09821456395116633,positive,6,4,0.6,0.0,0.431640625

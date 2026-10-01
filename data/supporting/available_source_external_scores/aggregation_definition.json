@@ -1,0 +1,13 @@
+{
+  "n_axes": 600,
+  "n_retained_axes": 24,
+  "n_selected_axes": 3,
+  "formula": "sum(source_score * evaluable_indicator) / sum(evaluable_indicator)",
+  "availability_definition": "HPA gene-level evidence record or drug-response matching detail with finite response and positive record count.",
+  "no_hit_handling": "Absent matched measurement is omitted from the denominator; an observed score of zero is retained.",
+  "all_missing_handling": "NA, not zero",
+  "scope": "Four database-layer scores retain their original values and direct/target/regulator-class matching definitions.",
+  "model_training_reexecuted": false,
+  "composite_priority_score_recomputed": false,
+  "historical_data_overwritten": false
+}

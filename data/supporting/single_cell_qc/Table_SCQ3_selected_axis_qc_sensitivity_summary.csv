@@ -1,0 +1,7 @@
+﻿cancer,cell_context,gene,n_samples_paired,spearman_main_vs_strict_sample_means,median_abs_delta_mean_expression,median_abs_delta_detection_fraction,median_cell_retention_fraction
+COAD,Myeloid,CDK1,100,0.9522831222242898,0.005489786709236345,0.005328468596741023,0.8488906139986641
+COAD,Myeloid,MYB,100,0.9572102588918461,0.0011516655989826648,0.0013869637279415445,0.8488906139986641
+LIHC,T/NK,AR,21,1.0,0.0,0.0,1.0
+LIHC,T/NK,HDAC1,21,1.0,0.0,0.0,1.0
+STAD,Fibroblast,HOPX,40,1.0,0.0,0.0,1.0
+STAD,Fibroblast,HSP90AB1,40,1.0,0.0,0.0,1.0
